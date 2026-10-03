@@ -1,0 +1,1001 @@
+review_id,review_text,product,sentiment,source,date,rating
+1,"Excellent build quality on this Yoga Mat, using it daily without issues.",Yoga Mat,positive,Flipkart,11/25/2025,3
+2,"Best Power Bank I have ever bought, highly recommend to everyone.",Power Bank,positive,Flipkart,7/14/2025,3
+3,"I'm impressed by how well this Wireless Earbuds performs, will buy again.",Wireless Earbuds,positive,Flipkart,4/12/2025,5
+4,"Best Bluetooth Speaker I have ever bought, highly recommend to everyone.",Bluetooth Speaker,positive,Flipkart,5/1/2025,3
+5,"The Power Bank exceeded my expectations, fast delivery too.",Power Bank,positive,Flipkart,2/14/2025,3
+6,Just got my new Power Bank and I'm obsessed! #shopping #happy,Power Bank,positive,Twitter,12/9/2025,1
+7,"Fantastic Gaming Mouse, customer service was also very helpful.",Gaming Mouse,positive,Flipkart,9/26/2025,5
+8,"Customer support ignored my Cotton T-Shirt complaint for days, frustrating",Cotton T-Shirt,negative,Twitter,10/1/2025,5
+9,"@Flipkart my Smartphone X200 arrived broken, this is unacceptable",Smartphone X200,negative,Twitter,6/10/2025,1
+10,"Shoutout to great customer service for my Wireless Earbuds issue, sorted in minutes!",Wireless Earbuds,positive,Twitter,12/1/2025,3
+11,"Poor quality Yoga Mat, not worth the money at all.",Yoga Mat,negative,Flipkart,8/16/2025,2
+12,"The Sunglasses exceeded my expectations, fast delivery too.",Sunglasses,positive,Flipkart,3/27/2025,4
+13,"Poor quality Smartwatch Pro, not worth the money at all.",Smartwatch Pro,negative,Flipkart,7/27/2025,1
+14,"Can't stop using my Office Chair, best purchase this year! @Flipkart",Office Chair,positive,Twitter,5/28/2025,3
+15,The Running Shoes arrived damaged and customer support was unhelpful.,Running Shoes,negative,Flipkart,7/14/2025,5
+16,"Customer support ignored my Power Bank complaint for days, frustrating",Power Bank,negative,Twitter,12/11/2025,4
+17,The Kitchen Blender looks good but I haven't used it much yet.,Kitchen Blender,neutral,Flipkart,5/10/2025,4
+18,"Neutral experience overall with this Wireless Earbuds, meets basic needs.",Wireless Earbuds,neutral,Flipkart,10/22/2025,2
+19,"The Cotton T-Shirt is okay, does the job but nothing special.",Cotton T-Shirt,neutral,Flipkart,11/6/2025,2
+20,The Wireless Earbuds looks good but I haven't used it much yet.,Wireless Earbuds,neutral,Flipkart,2/20/2025,4
+21,"Super happy with the Smartwatch Pro, packaging was neat and delivery was quick.",Smartwatch Pro,positive,Flipkart,10/8/2025,1
+22,"@Flipkart my Gaming Mouse arrived broken, this is unacceptable",Gaming Mouse,negative,Twitter,11/29/2025,3
+23,"Average Gaming Mouse, works as expected but could be better.",Gaming Mouse,neutral,Flipkart,10/9/2025,4
+24,"Not happy with the Kitchen Blender, feels cheap and flimsy.",Kitchen Blender,negative,Flipkart,9/29/2025,3
+25,"Never buying Gaming Mouse again, quality control is terrible",Gaming Mouse,negative,Twitter,12/22/2025,3
+26,"Can't stop using my Office Chair, best purchase this year! @Flipkart",Office Chair,positive,Twitter,9/26/2025,5
+27,The Laptop Backpack looks good but I haven't used it much yet.,Laptop Backpack,neutral,Flipkart,9/6/2025,2
+28,"Never buying Smartphone X200 again, quality control is terrible",Smartphone X200,negative,Twitter,10/11/2025,1
+29,"The Wireless Earbuds works fine, packaging could be improved.",Wireless Earbuds,neutral,Flipkart,7/10/2025,4
+30,"Reasonable Sunglasses, matches the pictures on the website.",Sunglasses,neutral,Flipkart,8/14/2025,3
+31,"Poor quality Power Bank, not worth the money at all.",Power Bank,negative,Flipkart,2/17/2025,4
+32,"Amazing value for money, the Smartwatch Pro works flawlessly.",Smartwatch Pro,positive,Flipkart,2/9/2025,3
+33,"Can't stop using my Bluetooth Speaker, best purchase this year! @Flipkart",Bluetooth Speaker,positive,Twitter,7/21/2025,5
+34,"@Flipkart my Kitchen Blender arrived broken, this is unacceptable",Kitchen Blender,negative,Twitter,12/15/2025,5
+35,"This Gaming Mouse is a total game changer, five stars!",Gaming Mouse,positive,Flipkart,8/12/2025,5
+36,"Can't stop using my Kitchen Blender, best purchase this year! @Flipkart",Kitchen Blender,positive,Twitter,8/17/2025,3
+37,"@Flipkart my Yoga Mat arrived broken, this is unacceptable",Yoga Mat,negative,Twitter,7/7/2025,3
+38,Comparing a few Running Shoes options before I decide,Running Shoes,neutral,Twitter,6/29/2025,4
+39,Absolutely love this LED Desk Lamp! Works perfectly and arrived early.,LED Desk Lamp,positive,Flipkart,9/22/2025,2
+40,"Regret buying this Air Fryer, quality is really bad.",Air Fryer,negative,Flipkart,2/5/2025,2
+41,"I'm impressed by how well this Air Fryer performs, will buy again.",Air Fryer,positive,Flipkart,7/24/2025,5
+42,Just got my new Cotton T-Shirt and I'm obsessed! #shopping #happy,Cotton T-Shirt,positive,Twitter,9/28/2025,1
+43,"Never buying Running Shoes again, quality control is terrible",Running Shoes,negative,Twitter,2/17/2025,3
+44,The Gaming Mouse looks good but I haven't used it much yet.,Gaming Mouse,neutral,Flipkart,4/8/2025,2
+45,Just got my new Bluetooth Speaker and I'm obsessed! #shopping #happy,Bluetooth Speaker,positive,Twitter,7/25/2025,1
+46,The Gaming Mouse looks good but I haven't used it much yet.,Gaming Mouse,neutral,Flipkart,11/11/2025,3
+47,"Average Running Shoes, works as expected but could be better.",Running Shoes,neutral,Flipkart,8/20/2025,2
+48,"Fantastic Laptop Backpack, customer service was also very helpful.",Laptop Backpack,positive,Flipkart,2/10/2025,1
+49,"The Wireless Earbuds is functional, waiting to see how it holds up.",Wireless Earbuds,neutral,Flipkart,6/30/2025,2
+50,"Got the Bluetooth Speaker yesterday, still testing it out.",Bluetooth Speaker,neutral,Flipkart,9/21/2025,3
+51,"Got the Yoga Mat yesterday, still testing it out.",Yoga Mat,neutral,Flipkart,12/27/2025,3
+52,"@Flipkart my Gaming Mouse arrived broken, this is unacceptable",Gaming Mouse,negative,Twitter,4/16/2025,3
+53,"The Sunglasses exceeded my expectations, fast delivery too.",Sunglasses,positive,Flipkart,7/9/2025,3
+54,"Ordered a Smartwatch Pro today, let's see how it goes",Smartwatch Pro,neutral,Twitter,9/19/2025,2
+55,"Reasonable LED Desk Lamp, matches the pictures on the website.",LED Desk Lamp,neutral,Flipkart,8/25/2025,4
+56,"Best Bluetooth Speaker I have ever bought, highly recommend to everyone.",Bluetooth Speaker,positive,Flipkart,10/2/2025,2
+57,"Poor quality Gaming Mouse, not worth the money at all.",Gaming Mouse,negative,Flipkart,6/10/2025,4
+58,"So disappointed with my Bluetooth Speaker, total waste of money #fail",Bluetooth Speaker,negative,Twitter,10/16/2025,2
+59,"The Office Chair stopped charging after a few uses, very frustrating.",Office Chair,negative,Flipkart,1/20/2025,1
+60,"@Flipkart my Wireless Earbuds arrived broken, this is unacceptable",Wireless Earbuds,negative,Twitter,10/28/2025,2
+61,"Very disappointed with this Gaming Mouse, stopped working within a week.",Gaming Mouse,negative,Flipkart,2/16/2025,5
+62,"Average Running Shoes, works as expected but could be better.",Running Shoes,neutral,Flipkart,1/26/2025,3
+63,"The Kitchen Blender is functional, waiting to see how it holds up.",Kitchen Blender,neutral,Flipkart,4/3/2025,4
+64,"So disappointed with my Power Bank, total waste of money #fail",Power Bank,negative,Twitter,10/1/2025,4
+65,"Worst Smartphone X200 I have purchased, would not recommend.",Smartphone X200,negative,Flipkart,11/20/2025,3
+66,"The Kitchen Blender works fine, packaging could be improved.",Kitchen Blender,neutral,Flipkart,9/27/2025,3
+67,"The Smartwatch Pro stopped charging after a few uses, very frustrating.",Smartwatch Pro,negative,Flipkart,11/26/2025,1
+68,"This Sunglasses is a total game changer, five stars!",Sunglasses,positive,Flipkart,10/23/2025,2
+69,Just got my new Power Bank and I'm obsessed! #shopping #happy,Power Bank,positive,Twitter,9/27/2025,4
+70,"It's a decent Laptop Backpack for the price, no major complaints.",Laptop Backpack,neutral,Flipkart,3/21/2025,2
+71,"Thinking about buying a Yoga Mat, any recommendations?",Yoga Mat,neutral,Twitter,8/20/2025,3
+72,The Office Chair looks good but I haven't used it much yet.,Office Chair,neutral,Flipkart,9/23/2025,3
+73,"The Air Fryer exceeded my expectations, fast delivery too.",Air Fryer,positive,Flipkart,7/24/2025,3
+74,Comparing a few Power Bank options before I decide,Power Bank,neutral,Twitter,7/10/2025,4
+75,"Customer support ignored my Bluetooth Speaker complaint for days, frustrating",Bluetooth Speaker,negative,Twitter,11/30/2025,5
+76,"Amazing value for money, the Laptop Backpack works flawlessly.",Laptop Backpack,positive,Flipkart,6/29/2025,3
+77,"The Power Bank is functional, waiting to see how it holds up.",Power Bank,neutral,Flipkart,3/26/2025,4
+78,"Worst Running Shoes I have purchased, would not recommend.",Running Shoes,negative,Flipkart,12/13/2025,4
+79,"Thinking about buying a Wireless Earbuds, any recommendations?",Wireless Earbuds,neutral,Twitter,12/31/2025,3
+80,"So disappointed with my Cotton T-Shirt, total waste of money #fail",Cotton T-Shirt,negative,Twitter,6/28/2025,3
+81,"Can't stop using my Laptop Backpack, best purchase this year! @Flipkart",Laptop Backpack,positive,Twitter,1/27/2025,1
+82,Comparing a few Sunglasses options before I decide,Sunglasses,neutral,Twitter,5/25/2025,3
+83,"The Cotton T-Shirt is functional, waiting to see how it holds up.",Cotton T-Shirt,neutral,Flipkart,3/20/2025,2
+84,"Kitchen Blender is amazing, exceeded all expectations #recommend",Kitchen Blender,positive,Twitter,4/30/2025,5
+85,"Customer support ignored my Kitchen Blender complaint for days, frustrating",Kitchen Blender,negative,Twitter,4/29/2025,4
+86,"Poor quality Running Shoes, not worth the money at all.",Running Shoes,negative,Flipkart,3/6/2025,3
+87,"Very disappointed with this Power Bank, stopped working within a week.",Power Bank,negative,Flipkart,8/12/2025,1
+88,"Best Smartwatch Pro I have ever bought, highly recommend to everyone.",Smartwatch Pro,positive,Flipkart,3/22/2025,2
+89,The Kitchen Blender arrived damaged and customer support was unhelpful.,Kitchen Blender,negative,Flipkart,2/8/2025,4
+90,"Can't stop using my Bluetooth Speaker, best purchase this year! @Flipkart",Bluetooth Speaker,positive,Twitter,5/22/2025,2
+91,"Running Shoes is amazing, exceeded all expectations #recommend",Running Shoes,positive,Twitter,11/7/2025,3
+92,"@Flipkart my Power Bank arrived broken, this is unacceptable",Power Bank,negative,Twitter,12/26/2025,2
+93,Late delivery and the Cotton T-Shirt was defective on arrival.,Cotton T-Shirt,negative,Flipkart,4/19/2025,2
+94,"The Smartwatch Pro works fine, packaging could be improved.",Smartwatch Pro,neutral,Flipkart,4/30/2025,4
+95,"Excellent build quality on this Gaming Mouse, using it daily without issues.",Gaming Mouse,positive,Flipkart,9/17/2025,3
+96,"Ordered a LED Desk Lamp today, let's see how it goes",LED Desk Lamp,neutral,Twitter,1/23/2025,2
+97,Comparing a few Laptop Backpack options before I decide,Laptop Backpack,neutral,Twitter,3/7/2025,2
+98,"Neutral experience overall with this Yoga Mat, meets basic needs.",Yoga Mat,neutral,Flipkart,3/8/2025,4
+99,"I'm impressed by how well this Bluetooth Speaker performs, will buy again.",Bluetooth Speaker,positive,Flipkart,8/8/2025,3
+100,"Best Smartwatch Pro I have ever bought, highly recommend to everyone.",Smartwatch Pro,positive,Flipkart,4/10/2025,3
+101,"Never buying Power Bank again, quality control is terrible",Power Bank,negative,Twitter,11/11/2025,5
+102,"Can't stop using my Gaming Mouse, best purchase this year! @Flipkart",Gaming Mouse,positive,Twitter,2/1/2025,1
+103,"Great quality Laptop Backpack for the price, very satisfied with my purchase.",Laptop Backpack,positive,Flipkart,12/23/2025,5
+104,"The Laptop Backpack exceeded my expectations, fast delivery too.",Laptop Backpack,positive,Flipkart,3/17/2025,1
+105,"Shoutout to great customer service for my LED Desk Lamp issue, sorted in minutes!",LED Desk Lamp,positive,Twitter,5/25/2025,4
+106,"Ordered a Cotton T-Shirt today, let's see how it goes",Cotton T-Shirt,neutral,Twitter,6/8/2025,4
+107,"Fantastic Wireless Earbuds, customer service was also very helpful.",Wireless Earbuds,positive,Flipkart,10/11/2025,2
+108,The Kitchen Blender arrived damaged and customer support was unhelpful.,Kitchen Blender,negative,Flipkart,9/11/2025,1
+109,"Not happy with the Wireless Earbuds, feels cheap and flimsy.",Wireless Earbuds,negative,Flipkart,10/15/2025,5
+110,"I'm impressed by how well this Wireless Earbuds performs, will buy again.",Wireless Earbuds,positive,Flipkart,10/3/2025,2
+111,"Worst Air Fryer I have purchased, would not recommend.",Air Fryer,negative,Flipkart,8/6/2025,1
+112,The Wireless Earbuds arrived damaged and customer support was unhelpful.,Wireless Earbuds,negative,Flipkart,6/7/2025,5
+113,"Amazing value for money, the Gaming Mouse works flawlessly.",Gaming Mouse,positive,Flipkart,2/5/2025,5
+114,"Best LED Desk Lamp I have ever bought, highly recommend to everyone.",LED Desk Lamp,positive,Flipkart,4/6/2025,1
+115,"The Gaming Mouse stopped charging after a few uses, very frustrating.",Gaming Mouse,negative,Flipkart,5/28/2025,4
+116,"The Power Bank is okay, does the job but nothing special.",Power Bank,neutral,Flipkart,12/2/2025,3
+117,"Super happy with the Smartphone X200, packaging was neat and delivery was quick.",Smartphone X200,positive,Flipkart,7/1/2025,4
+118,"The Kitchen Blender exceeded my expectations, fast delivery too.",Kitchen Blender,positive,Flipkart,8/18/2025,5
+119,"So disappointed with my Gaming Mouse, total waste of money #fail",Gaming Mouse,negative,Twitter,1/1/2025,2
+120,"The Gaming Mouse is functional, waiting to see how it holds up.",Gaming Mouse,neutral,Flipkart,3/18/2025,3
+121,"Thinking about buying a Smartphone X200, any recommendations?",Smartphone X200,neutral,Twitter,3/4/2025,2
+122,"Regret buying this Cotton T-Shirt, quality is really bad.",Cotton T-Shirt,negative,Flipkart,9/26/2025,1
+123,"Gaming Mouse is amazing, exceeded all expectations #recommend",Gaming Mouse,positive,Twitter,7/29/2025,2
+124,"Regret buying this Yoga Mat, quality is really bad.",Yoga Mat,negative,Flipkart,10/15/2025,5
+125,"Regret buying this Gaming Mouse, quality is really bad.",Gaming Mouse,negative,Flipkart,11/29/2025,1
+126,"The LED Desk Lamp exceeded my expectations, fast delivery too.",LED Desk Lamp,positive,Flipkart,3/25/2025,4
+127,"@Flipkart my Gaming Mouse arrived broken, this is unacceptable",Gaming Mouse,negative,Twitter,9/3/2025,3
+128,"Great quality Gaming Mouse for the price, very satisfied with my purchase.",Gaming Mouse,positive,Flipkart,11/23/2025,4
+129,"Best Smartwatch Pro I have ever bought, highly recommend to everyone.",Smartwatch Pro,positive,Flipkart,5/23/2025,3
+130,Comparing a few Air Fryer options before I decide,Air Fryer,neutral,Twitter,2/8/2025,4
+131,"Can't stop using my Laptop Backpack, best purchase this year! @Flipkart",Laptop Backpack,positive,Twitter,12/21/2025,5
+132,"Got the Bluetooth Speaker yesterday, still testing it out.",Bluetooth Speaker,neutral,Flipkart,2/9/2025,4
+133,"Ordered a Wireless Earbuds today, let's see how it goes",Wireless Earbuds,neutral,Twitter,5/24/2025,3
+134,Comparing a few Power Bank options before I decide,Power Bank,neutral,Twitter,7/7/2025,4
+135,The Wireless Earbuds looks good but I haven't used it much yet.,Wireless Earbuds,neutral,Flipkart,6/8/2025,2
+136,"This Laptop Backpack is a total game changer, five stars!",Laptop Backpack,positive,Flipkart,5/3/2025,3
+137,"So disappointed with my Running Shoes, total waste of money #fail",Running Shoes,negative,Twitter,3/27/2025,4
+138,"This Smartwatch Pro broke after two days of normal use, total waste.",Smartwatch Pro,negative,Flipkart,10/28/2025,5
+139,"Customer support ignored my Smartphone X200 complaint for days, frustrating",Smartphone X200,negative,Twitter,11/3/2025,4
+140,"Got the Laptop Backpack yesterday, still testing it out.",Laptop Backpack,neutral,Flipkart,8/29/2025,2
+141,"Very disappointed with this Running Shoes, stopped working within a week.",Running Shoes,negative,Flipkart,7/3/2025,2
+142,"Shoutout to great customer service for my Yoga Mat issue, sorted in minutes!",Yoga Mat,positive,Twitter,12/27/2025,2
+143,"Terrible experience, the Wireless Earbuds does not match the description.",Wireless Earbuds,negative,Flipkart,8/31/2025,4
+144,"Neutral experience overall with this Smartphone X200, meets basic needs.",Smartphone X200,neutral,Flipkart,11/25/2025,2
+145,"Super happy with the Laptop Backpack, packaging was neat and delivery was quick.",Laptop Backpack,positive,Flipkart,12/7/2025,4
+146,"Never buying Yoga Mat again, quality control is terrible",Yoga Mat,negative,Twitter,12/16/2025,1
+147,"Amazing value for money, the Sunglasses works flawlessly.",Sunglasses,positive,Flipkart,5/5/2025,4
+148,"Customer support ignored my Power Bank complaint for days, frustrating",Power Bank,negative,Twitter,11/13/2025,2
+149,"Excellent build quality on this Yoga Mat, using it daily without issues.",Yoga Mat,positive,Flipkart,2/10/2025,2
+150,"@Flipkart my Yoga Mat arrived broken, this is unacceptable",Yoga Mat,negative,Twitter,9/24/2025,4
+151,"Neutral experience overall with this Laptop Backpack, meets basic needs.",Laptop Backpack,neutral,Flipkart,5/21/2025,2
+152,"Air Fryer is amazing, exceeded all expectations #recommend",Air Fryer,positive,Twitter,9/30/2025,4
+153,The Smartwatch Pro looks good but I haven't used it much yet.,Smartwatch Pro,neutral,Flipkart,2/22/2025,2
+154,"Fantastic Smartphone X200, customer service was also very helpful.",Smartphone X200,positive,Flipkart,8/11/2025,3
+155,"Regret buying this Power Bank, quality is really bad.",Power Bank,negative,Flipkart,11/14/2025,2
+156,"Thinking about buying a Office Chair, any recommendations?",Office Chair,neutral,Twitter,1/18/2025,4
+157,"Kitchen Blender is amazing, exceeded all expectations #recommend",Kitchen Blender,positive,Twitter,10/3/2025,2
+158,"Worst Laptop Backpack I have purchased, would not recommend.",Laptop Backpack,negative,Flipkart,6/18/2025,2
+159,"Fantastic Kitchen Blender, customer service was also very helpful.",Kitchen Blender,positive,Flipkart,5/18/2025,3
+160,"@Flipkart my Bluetooth Speaker arrived broken, this is unacceptable",Bluetooth Speaker,negative,Twitter,9/19/2025,4
+161,"LED Desk Lamp is amazing, exceeded all expectations #recommend",LED Desk Lamp,positive,Twitter,8/2/2025,5
+162,Absolutely love this Yoga Mat! Works perfectly and arrived early.,Yoga Mat,positive,Flipkart,5/7/2025,2
+163,"Fantastic Smartphone X200, customer service was also very helpful.",Smartphone X200,positive,Flipkart,1/14/2025,3
+164,"So disappointed with my Office Chair, total waste of money #fail",Office Chair,negative,Twitter,3/9/2025,5
+165,"Fantastic Power Bank, customer service was also very helpful.",Power Bank,positive,Flipkart,8/8/2025,3
+166,"Yoga Mat is amazing, exceeded all expectations #recommend",Yoga Mat,positive,Twitter,4/6/2025,3
+167,"So disappointed with my Yoga Mat, total waste of money #fail",Yoga Mat,negative,Twitter,10/23/2025,1
+168,"Can't stop using my Laptop Backpack, best purchase this year! @Flipkart",Laptop Backpack,positive,Twitter,3/2/2025,4
+169,"Great quality Yoga Mat for the price, very satisfied with my purchase.",Yoga Mat,positive,Flipkart,9/17/2025,1
+170,"Best Gaming Mouse I have ever bought, highly recommend to everyone.",Gaming Mouse,positive,Flipkart,1/24/2025,2
+171,"Terrible experience, the Office Chair does not match the description.",Office Chair,negative,Flipkart,10/28/2025,3
+172,"The Laptop Backpack is okay, does the job but nothing special.",Laptop Backpack,neutral,Flipkart,4/13/2025,2
+173,"The Cotton T-Shirt exceeded my expectations, fast delivery too.",Cotton T-Shirt,positive,Flipkart,3/20/2025,3
+174,"Shoutout to great customer service for my Office Chair issue, sorted in minutes!",Office Chair,positive,Twitter,6/7/2025,3
+175,"@Flipkart my Kitchen Blender arrived broken, this is unacceptable",Kitchen Blender,negative,Twitter,10/22/2025,4
+176,Absolutely love this Bluetooth Speaker! Works perfectly and arrived early.,Bluetooth Speaker,positive,Flipkart,3/1/2025,3
+177,"Can't stop using my Power Bank, best purchase this year! @Flipkart",Power Bank,positive,Twitter,2/4/2025,2
+178,"Never buying Yoga Mat again, quality control is terrible",Yoga Mat,negative,Twitter,12/26/2025,5
+179,"So disappointed with my Smartwatch Pro, total waste of money #fail",Smartwatch Pro,negative,Twitter,8/19/2025,3
+180,"Average Sunglasses, works as expected but could be better.",Sunglasses,neutral,Flipkart,12/31/2025,4
+181,"The Bluetooth Speaker is functional, waiting to see how it holds up.",Bluetooth Speaker,neutral,Flipkart,3/9/2025,4
+182,"The Wireless Earbuds is okay, does the job but nothing special.",Wireless Earbuds,neutral,Flipkart,5/25/2025,3
+183,"Excellent build quality on this Sunglasses, using it daily without issues.",Sunglasses,positive,Flipkart,5/3/2025,1
+184,"LED Desk Lamp is amazing, exceeded all expectations #recommend",LED Desk Lamp,positive,Twitter,12/29/2025,5
+185,"So disappointed with my Wireless Earbuds, total waste of money #fail",Wireless Earbuds,negative,Twitter,8/12/2025,2
+186,"I'm impressed by how well this Wireless Earbuds performs, will buy again.",Wireless Earbuds,positive,Flipkart,3/6/2025,3
+187,"This Gaming Mouse broke after two days of normal use, total waste.",Gaming Mouse,negative,Flipkart,1/15/2025,1
+188,"Worst Yoga Mat I have purchased, would not recommend.",Yoga Mat,negative,Flipkart,11/7/2025,3
+189,"Great quality Gaming Mouse for the price, very satisfied with my purchase.",Gaming Mouse,positive,Flipkart,5/2/2025,2
+190,"Neutral experience overall with this Kitchen Blender, meets basic needs.",Kitchen Blender,neutral,Flipkart,3/2/2025,3
+191,"The Kitchen Blender works fine, packaging could be improved.",Kitchen Blender,neutral,Flipkart,1/23/2025,4
+192,"Office Chair is amazing, exceeded all expectations #recommend",Office Chair,positive,Twitter,3/10/2025,5
+193,"Fantastic Kitchen Blender, customer service was also very helpful.",Kitchen Blender,positive,Flipkart,12/23/2025,1
+194,"Gaming Mouse is amazing, exceeded all expectations #recommend",Gaming Mouse,positive,Twitter,2/16/2025,5
+195,"Customer support ignored my Running Shoes complaint for days, frustrating",Running Shoes,negative,Twitter,1/31/2025,3
+196,The Bluetooth Speaker arrived damaged and customer support was unhelpful.,Bluetooth Speaker,negative,Flipkart,2/9/2025,5
+197,"Ordered a Gaming Mouse today, let's see how it goes",Gaming Mouse,neutral,Twitter,4/27/2025,4
+198,Late delivery and the Smartwatch Pro was defective on arrival.,Smartwatch Pro,negative,Flipkart,1/8/2025,5
+199,"The Kitchen Blender stopped charging after a few uses, very frustrating.",Kitchen Blender,negative,Flipkart,8/30/2025,2
+200,"Ordered a Air Fryer today, let's see how it goes",Air Fryer,neutral,Twitter,5/8/2025,4
+201,"Shoutout to great customer service for my Cotton T-Shirt issue, sorted in minutes!",Cotton T-Shirt,positive,Twitter,5/2/2025,3
+202,"This Smartwatch Pro is a total game changer, five stars!",Smartwatch Pro,positive,Flipkart,1/21/2025,3
+203,Just got my new Sunglasses and I'm obsessed! #shopping #happy,Sunglasses,positive,Twitter,1/5/2025,3
+204,"I'm impressed by how well this Cotton T-Shirt performs, will buy again.",Cotton T-Shirt,positive,Flipkart,1/14/2025,4
+205,"My Wireless Earbuds arrived on time, haven't tried it yet",Wireless Earbuds,neutral,Twitter,4/13/2025,3
+206,"So disappointed with my Office Chair, total waste of money #fail",Office Chair,negative,Twitter,8/8/2025,2
+207,Comparing a few Kitchen Blender options before I decide,Kitchen Blender,neutral,Twitter,9/12/2025,2
+208,Absolutely love this Sunglasses! Works perfectly and arrived early.,Sunglasses,positive,Flipkart,11/3/2025,3
+209,"The Smartwatch Pro exceeded my expectations, fast delivery too.",Smartwatch Pro,positive,Flipkart,3/3/2025,2
+210,"Gaming Mouse is amazing, exceeded all expectations #recommend",Gaming Mouse,positive,Twitter,6/12/2025,4
+211,"Can't stop using my LED Desk Lamp, best purchase this year! @Flipkart",LED Desk Lamp,positive,Twitter,7/18/2025,2
+212,"Regret buying this Gaming Mouse, quality is really bad.",Gaming Mouse,negative,Flipkart,5/20/2025,5
+213,"It's a decent Cotton T-Shirt for the price, no major complaints.",Cotton T-Shirt,neutral,Flipkart,6/10/2025,4
+214,"The Laptop Backpack stopped charging after a few uses, very frustrating.",Laptop Backpack,negative,Flipkart,8/16/2025,2
+215,"This Office Chair broke after two days of normal use, total waste.",Office Chair,negative,Flipkart,9/18/2025,3
+216,"Customer support ignored my Office Chair complaint for days, frustrating",Office Chair,negative,Twitter,6/17/2025,5
+217,"The LED Desk Lamp is okay, does the job but nothing special.",LED Desk Lamp,neutral,Flipkart,3/5/2025,4
+218,"Best Smartwatch Pro I have ever bought, highly recommend to everyone.",Smartwatch Pro,positive,Flipkart,4/19/2025,5
+219,"The Office Chair is functional, waiting to see how it holds up.",Office Chair,neutral,Flipkart,1/3/2025,2
+220,"The Cotton T-Shirt exceeded my expectations, fast delivery too.",Cotton T-Shirt,positive,Flipkart,8/27/2025,3
+221,"Not happy with the Air Fryer, feels cheap and flimsy.",Air Fryer,negative,Flipkart,9/7/2025,5
+222,"The Air Fryer stopped charging after a few uses, very frustrating.",Air Fryer,negative,Flipkart,3/18/2025,4
+223,"The LED Desk Lamp stopped charging after a few uses, very frustrating.",LED Desk Lamp,negative,Flipkart,8/13/2025,1
+224,"It's a decent Air Fryer for the price, no major complaints.",Air Fryer,neutral,Flipkart,3/11/2025,2
+225,Comparing a few Laptop Backpack options before I decide,Laptop Backpack,neutral,Twitter,6/13/2025,3
+226,"The Laptop Backpack is functional, waiting to see how it holds up.",Laptop Backpack,neutral,Flipkart,5/27/2025,4
+227,"Worst Smartphone X200 I have purchased, would not recommend.",Smartphone X200,negative,Flipkart,11/25/2025,5
+228,"Fantastic Sunglasses, customer service was also very helpful.",Sunglasses,positive,Flipkart,4/10/2025,4
+229,"My Sunglasses arrived on time, haven't tried it yet",Sunglasses,neutral,Twitter,3/4/2025,2
+230,"The Smartwatch Pro is okay, does the job but nothing special.",Smartwatch Pro,neutral,Flipkart,2/8/2025,4
+231,"Customer support ignored my Laptop Backpack complaint for days, frustrating",Laptop Backpack,negative,Twitter,2/15/2025,1
+232,"The Bluetooth Speaker is okay, does the job but nothing special.",Bluetooth Speaker,neutral,Flipkart,7/25/2025,2
+233,"Customer support ignored my Yoga Mat complaint for days, frustrating",Yoga Mat,negative,Twitter,2/9/2025,3
+234,"Ordered a Air Fryer today, let's see how it goes",Air Fryer,neutral,Twitter,5/3/2025,3
+235,"The Smartphone X200 stopped charging after a few uses, very frustrating.",Smartphone X200,negative,Flipkart,6/28/2025,4
+236,"Poor quality Bluetooth Speaker, not worth the money at all.",Bluetooth Speaker,negative,Flipkart,7/30/2025,3
+237,"Ordered a Sunglasses today, let's see how it goes",Sunglasses,neutral,Twitter,6/21/2025,2
+238,"Worst Laptop Backpack I have purchased, would not recommend.",Laptop Backpack,negative,Flipkart,11/14/2025,3
+239,"Got the Wireless Earbuds yesterday, still testing it out.",Wireless Earbuds,neutral,Flipkart,4/21/2025,2
+240,"So disappointed with my Wireless Earbuds, total waste of money #fail",Wireless Earbuds,negative,Twitter,8/23/2025,3
+241,"Very disappointed with this Wireless Earbuds, stopped working within a week.",Wireless Earbuds,negative,Flipkart,6/5/2025,4
+242,"Ordered a Sunglasses today, let's see how it goes",Sunglasses,neutral,Twitter,3/13/2025,2
+243,Late delivery and the Office Chair was defective on arrival.,Office Chair,negative,Flipkart,3/16/2025,4
+244,"Smartwatch Pro is amazing, exceeded all expectations #recommend",Smartwatch Pro,positive,Twitter,6/1/2025,2
+245,"@Flipkart my Smartwatch Pro arrived broken, this is unacceptable",Smartwatch Pro,negative,Twitter,7/14/2025,2
+246,"Amazing value for money, the Running Shoes works flawlessly.",Running Shoes,positive,Flipkart,10/10/2025,4
+247,"Ordered a Smartphone X200 today, let's see how it goes",Smartphone X200,neutral,Twitter,4/2/2025,2
+248,"The Office Chair is fine, delivery took longer than expected though.",Office Chair,neutral,Flipkart,12/17/2025,3
+249,"My Power Bank arrived on time, haven't tried it yet",Power Bank,neutral,Twitter,7/21/2025,4
+250,Late delivery and the Cotton T-Shirt was defective on arrival.,Cotton T-Shirt,negative,Flipkart,1/14/2025,5
+251,"Excellent build quality on this Smartphone X200, using it daily without issues.",Smartphone X200,positive,Flipkart,4/24/2025,4
+252,"The LED Desk Lamp stopped charging after a few uses, very frustrating.",LED Desk Lamp,negative,Flipkart,1/8/2025,2
+253,"I'm impressed by how well this Cotton T-Shirt performs, will buy again.",Cotton T-Shirt,positive,Flipkart,9/5/2025,4
+254,"Terrible experience, the Smartphone X200 does not match the description.",Smartphone X200,negative,Flipkart,5/10/2025,3
+255,"Great quality Office Chair for the price, very satisfied with my purchase.",Office Chair,positive,Flipkart,9/1/2025,4
+256,"Amazing value for money, the LED Desk Lamp works flawlessly.",LED Desk Lamp,positive,Flipkart,5/9/2025,1
+257,"Average Office Chair, works as expected but could be better.",Office Chair,neutral,Flipkart,6/25/2025,4
+258,"LED Desk Lamp is amazing, exceeded all expectations #recommend",LED Desk Lamp,positive,Twitter,1/29/2025,1
+259,Absolutely love this Gaming Mouse! Works perfectly and arrived early.,Gaming Mouse,positive,Flipkart,4/28/2025,1
+260,Just got my new Wireless Earbuds and I'm obsessed! #shopping #happy,Wireless Earbuds,positive,Twitter,3/12/2025,3
+261,"Regret buying this Bluetooth Speaker, quality is really bad.",Bluetooth Speaker,negative,Flipkart,2/26/2025,3
+262,"Excellent build quality on this Gaming Mouse, using it daily without issues.",Gaming Mouse,positive,Flipkart,7/24/2025,3
+263,"The LED Desk Lamp is okay, does the job but nothing special.",LED Desk Lamp,neutral,Flipkart,8/19/2025,4
+264,"Customer support ignored my Kitchen Blender complaint for days, frustrating",Kitchen Blender,negative,Twitter,12/14/2025,5
+265,"It's a decent Cotton T-Shirt for the price, no major complaints.",Cotton T-Shirt,neutral,Flipkart,3/8/2025,3
+266,"Shoutout to great customer service for my Gaming Mouse issue, sorted in minutes!",Gaming Mouse,positive,Twitter,10/2/2025,3
+267,"Can't stop using my Laptop Backpack, best purchase this year! @Flipkart",Laptop Backpack,positive,Twitter,1/26/2025,5
+268,"Shoutout to great customer service for my Gaming Mouse issue, sorted in minutes!",Gaming Mouse,positive,Twitter,3/28/2025,2
+269,"The Laptop Backpack exceeded my expectations, fast delivery too.",Laptop Backpack,positive,Flipkart,9/16/2025,5
+270,Absolutely love this LED Desk Lamp! Works perfectly and arrived early.,LED Desk Lamp,positive,Flipkart,2/27/2025,1
+271,"The Smartwatch Pro exceeded my expectations, fast delivery too.",Smartwatch Pro,positive,Flipkart,1/30/2025,5
+272,"Ordered a Power Bank today, let's see how it goes",Power Bank,neutral,Twitter,10/20/2025,3
+273,"Neutral experience overall with this Yoga Mat, meets basic needs.",Yoga Mat,neutral,Flipkart,10/11/2025,2
+274,"Sunglasses is amazing, exceeded all expectations #recommend",Sunglasses,positive,Twitter,12/4/2025,4
+275,"Never buying Air Fryer again, quality control is terrible",Air Fryer,negative,Twitter,8/19/2025,4
+276,"Amazing value for money, the Office Chair works flawlessly.",Office Chair,positive,Flipkart,8/14/2025,3
+277,"The Gaming Mouse exceeded my expectations, fast delivery too.",Gaming Mouse,positive,Flipkart,6/6/2025,5
+278,"Ordered a Kitchen Blender today, let's see how it goes",Kitchen Blender,neutral,Twitter,10/2/2025,3
+279,"The Running Shoes works fine, packaging could be improved.",Running Shoes,neutral,Flipkart,12/23/2025,3
+280,"Best Kitchen Blender I have ever bought, highly recommend to everyone.",Kitchen Blender,positive,Flipkart,7/3/2025,3
+281,"Average Power Bank, works as expected but could be better.",Power Bank,neutral,Flipkart,5/26/2025,2
+282,"Shoutout to great customer service for my Bluetooth Speaker issue, sorted in minutes!",Bluetooth Speaker,positive,Twitter,10/13/2025,3
+283,Absolutely love this Power Bank! Works perfectly and arrived early.,Power Bank,positive,Flipkart,6/11/2025,4
+284,"Regret buying this Yoga Mat, quality is really bad.",Yoga Mat,negative,Flipkart,1/8/2025,3
+285,"Customer support ignored my LED Desk Lamp complaint for days, frustrating",LED Desk Lamp,negative,Twitter,7/29/2025,4
+286,"Average Laptop Backpack, works as expected but could be better.",Laptop Backpack,neutral,Flipkart,10/25/2025,4
+287,"Shoutout to great customer service for my Air Fryer issue, sorted in minutes!",Air Fryer,positive,Twitter,7/8/2025,5
+288,"Best Cotton T-Shirt I have ever bought, highly recommend to everyone.",Cotton T-Shirt,positive,Flipkart,3/25/2025,3
+289,"Can't stop using my Air Fryer, best purchase this year! @Flipkart",Air Fryer,positive,Twitter,12/1/2025,3
+290,"@Flipkart my Power Bank arrived broken, this is unacceptable",Power Bank,negative,Twitter,12/13/2025,4
+291,"Shoutout to great customer service for my Office Chair issue, sorted in minutes!",Office Chair,positive,Twitter,3/23/2025,4
+292,"@Flipkart my Laptop Backpack arrived broken, this is unacceptable",Laptop Backpack,negative,Twitter,8/17/2025,3
+293,"Yoga Mat is amazing, exceeded all expectations #recommend",Yoga Mat,positive,Twitter,3/17/2025,2
+294,"So disappointed with my Office Chair, total waste of money #fail",Office Chair,negative,Twitter,6/1/2025,4
+295,"@Flipkart my Kitchen Blender arrived broken, this is unacceptable",Kitchen Blender,negative,Twitter,9/7/2025,5
+296,Absolutely love this Kitchen Blender! Works perfectly and arrived early.,Kitchen Blender,positive,Flipkart,8/29/2025,2
+297,"Can't stop using my Power Bank, best purchase this year! @Flipkart",Power Bank,positive,Twitter,5/7/2025,4
+298,"The Air Fryer stopped charging after a few uses, very frustrating.",Air Fryer,negative,Flipkart,12/25/2025,3
+299,"Best Kitchen Blender I have ever bought, highly recommend to everyone.",Kitchen Blender,positive,Flipkart,10/19/2025,2
+300,"Average Smartwatch Pro, works as expected but could be better.",Smartwatch Pro,neutral,Flipkart,9/17/2025,4
+301,Just got my new Power Bank and I'm obsessed! #shopping #happy,Power Bank,positive,Twitter,4/22/2025,5
+302,"The Power Bank stopped charging after a few uses, very frustrating.",Power Bank,negative,Flipkart,11/12/2025,4
+303,"Neutral experience overall with this Office Chair, meets basic needs.",Office Chair,neutral,Flipkart,9/25/2025,4
+304,"Customer support ignored my Wireless Earbuds complaint for days, frustrating",Wireless Earbuds,negative,Twitter,11/17/2025,3
+305,"Can't stop using my Bluetooth Speaker, best purchase this year! @Flipkart",Bluetooth Speaker,positive,Twitter,8/24/2025,5
+306,"The Yoga Mat is functional, waiting to see how it holds up.",Yoga Mat,neutral,Flipkart,3/12/2025,3
+307,"Worst Wireless Earbuds I have purchased, would not recommend.",Wireless Earbuds,negative,Flipkart,9/23/2025,3
+308,"Regret buying this Bluetooth Speaker, quality is really bad.",Bluetooth Speaker,negative,Flipkart,3/16/2025,2
+309,"Got the Air Fryer yesterday, still testing it out.",Air Fryer,neutral,Flipkart,5/8/2025,2
+310,"Never buying Air Fryer again, quality control is terrible",Air Fryer,negative,Twitter,7/16/2025,2
+311,Absolutely love this Air Fryer! Works perfectly and arrived early.,Air Fryer,positive,Flipkart,2/24/2025,4
+312,Late delivery and the Office Chair was defective on arrival.,Office Chair,negative,Flipkart,11/6/2025,4
+313,"This Laptop Backpack is a total game changer, five stars!",Laptop Backpack,positive,Flipkart,1/29/2025,2
+314,"Thinking about buying a Yoga Mat, any recommendations?",Yoga Mat,neutral,Twitter,10/2/2025,3
+315,"Fantastic Cotton T-Shirt, customer service was also very helpful.",Cotton T-Shirt,positive,Flipkart,1/21/2025,5
+316,"The Smartwatch Pro exceeded my expectations, fast delivery too.",Smartwatch Pro,positive,Flipkart,11/23/2025,3
+317,"Shoutout to great customer service for my Bluetooth Speaker issue, sorted in minutes!",Bluetooth Speaker,positive,Twitter,7/31/2025,1
+318,The Yoga Mat arrived damaged and customer support was unhelpful.,Yoga Mat,negative,Flipkart,8/29/2025,5
+319,"Terrible experience, the Power Bank does not match the description.",Power Bank,negative,Flipkart,2/25/2025,2
+320,"Got the Smartphone X200 yesterday, still testing it out.",Smartphone X200,neutral,Flipkart,5/2/2025,3
+321,"So disappointed with my Yoga Mat, total waste of money #fail",Yoga Mat,negative,Twitter,7/4/2025,3
+322,"Excellent build quality on this Laptop Backpack, using it daily without issues.",Laptop Backpack,positive,Flipkart,6/21/2025,3
+323,"Thinking about buying a Power Bank, any recommendations?",Power Bank,neutral,Twitter,7/8/2025,2
+324,"Customer support ignored my Cotton T-Shirt complaint for days, frustrating",Cotton T-Shirt,negative,Twitter,11/9/2025,4
+325,"Excellent build quality on this Laptop Backpack, using it daily without issues.",Laptop Backpack,positive,Flipkart,1/23/2025,4
+326,"Not happy with the Sunglasses, feels cheap and flimsy.",Sunglasses,negative,Flipkart,9/12/2025,3
+327,"It's a decent Bluetooth Speaker for the price, no major complaints.",Bluetooth Speaker,neutral,Flipkart,9/12/2025,4
+328,"Average Smartwatch Pro, works as expected but could be better.",Smartwatch Pro,neutral,Flipkart,7/8/2025,3
+329,"Not happy with the Air Fryer, feels cheap and flimsy.",Air Fryer,negative,Flipkart,11/26/2025,5
+330,"Poor quality Smartphone X200, not worth the money at all.",Smartphone X200,negative,Flipkart,12/2/2025,5
+331,"Never buying Laptop Backpack again, quality control is terrible",Laptop Backpack,negative,Twitter,10/11/2025,4
+332,Absolutely love this Smartwatch Pro! Works perfectly and arrived early.,Smartwatch Pro,positive,Flipkart,3/23/2025,4
+333,"Ordered a Kitchen Blender today, let's see how it goes",Kitchen Blender,neutral,Twitter,5/4/2025,3
+334,"Poor quality Air Fryer, not worth the money at all.",Air Fryer,negative,Flipkart,9/9/2025,4
+335,"Can't stop using my Laptop Backpack, best purchase this year! @Flipkart",Laptop Backpack,positive,Twitter,3/26/2025,3
+336,"The Bluetooth Speaker exceeded my expectations, fast delivery too.",Bluetooth Speaker,positive,Flipkart,12/10/2025,3
+337,"Very disappointed with this Wireless Earbuds, stopped working within a week.",Wireless Earbuds,negative,Flipkart,6/20/2025,2
+338,"This Kitchen Blender is a total game changer, five stars!",Kitchen Blender,positive,Flipkart,11/22/2025,4
+339,"Worst Smartphone X200 I have purchased, would not recommend.",Smartphone X200,negative,Flipkart,5/16/2025,5
+340,"Regret buying this Air Fryer, quality is really bad.",Air Fryer,negative,Flipkart,3/1/2025,2
+341,"Reasonable LED Desk Lamp, matches the pictures on the website.",LED Desk Lamp,neutral,Flipkart,5/26/2025,3
+342,Just got my new Running Shoes and I'm obsessed! #shopping #happy,Running Shoes,positive,Twitter,11/12/2025,5
+343,Late delivery and the Power Bank was defective on arrival.,Power Bank,negative,Flipkart,4/17/2025,5
+344,"This Laptop Backpack is a total game changer, five stars!",Laptop Backpack,positive,Flipkart,4/2/2025,3
+345,"@Flipkart my Smartwatch Pro arrived broken, this is unacceptable",Smartwatch Pro,negative,Twitter,8/23/2025,5
+346,"Super happy with the Wireless Earbuds, packaging was neat and delivery was quick.",Wireless Earbuds,positive,Flipkart,6/23/2025,1
+347,"Very disappointed with this Smartphone X200, stopped working within a week.",Smartphone X200,negative,Flipkart,3/21/2025,2
+348,"The Smartphone X200 stopped charging after a few uses, very frustrating.",Smartphone X200,negative,Flipkart,12/19/2025,3
+349,"I'm impressed by how well this LED Desk Lamp performs, will buy again.",LED Desk Lamp,positive,Flipkart,3/22/2025,1
+350,"This Yoga Mat broke after two days of normal use, total waste.",Yoga Mat,negative,Flipkart,6/23/2025,5
+351,"Super happy with the Smartphone X200, packaging was neat and delivery was quick.",Smartphone X200,positive,Flipkart,12/3/2025,5
+352,"Customer support ignored my Gaming Mouse complaint for days, frustrating",Gaming Mouse,negative,Twitter,6/12/2025,3
+353,"Amazing value for money, the LED Desk Lamp works flawlessly.",LED Desk Lamp,positive,Flipkart,3/28/2025,1
+354,Just got my new Yoga Mat and I'm obsessed! #shopping #happy,Yoga Mat,positive,Twitter,6/2/2025,4
+355,"I'm impressed by how well this Air Fryer performs, will buy again.",Air Fryer,positive,Flipkart,2/14/2025,5
+356,"Neutral experience overall with this Gaming Mouse, meets basic needs.",Gaming Mouse,neutral,Flipkart,2/17/2025,4
+357,"Never buying Running Shoes again, quality control is terrible",Running Shoes,negative,Twitter,6/14/2025,5
+358,"Thinking about buying a Laptop Backpack, any recommendations?",Laptop Backpack,neutral,Twitter,8/3/2025,3
+359,"Thinking about buying a Kitchen Blender, any recommendations?",Kitchen Blender,neutral,Twitter,1/30/2025,2
+360,The Air Fryer arrived damaged and customer support was unhelpful.,Air Fryer,negative,Flipkart,11/18/2025,1
+361,"My Air Fryer arrived on time, haven't tried it yet",Air Fryer,neutral,Twitter,5/14/2025,2
+362,"Not happy with the Gaming Mouse, feels cheap and flimsy.",Gaming Mouse,negative,Flipkart,5/28/2025,4
+363,"Excellent build quality on this Power Bank, using it daily without issues.",Power Bank,positive,Flipkart,11/24/2025,5
+364,"Terrible experience, the Bluetooth Speaker does not match the description.",Bluetooth Speaker,negative,Flipkart,3/19/2025,4
+365,"So disappointed with my Smartphone X200, total waste of money #fail",Smartphone X200,negative,Twitter,7/26/2025,5
+366,"Amazing value for money, the Office Chair works flawlessly.",Office Chair,positive,Flipkart,4/20/2025,4
+367,"Fantastic Yoga Mat, customer service was also very helpful.",Yoga Mat,positive,Flipkart,4/26/2025,5
+368,"Cotton T-Shirt is amazing, exceeded all expectations #recommend",Cotton T-Shirt,positive,Twitter,7/22/2025,3
+369,"The Smartphone X200 exceeded my expectations, fast delivery too.",Smartphone X200,positive,Flipkart,7/28/2025,4
+370,"Neutral experience overall with this Bluetooth Speaker, meets basic needs.",Bluetooth Speaker,neutral,Flipkart,6/23/2025,4
+371,Just got my new Wireless Earbuds and I'm obsessed! #shopping #happy,Wireless Earbuds,positive,Twitter,4/8/2025,1
+372,"I'm impressed by how well this Office Chair performs, will buy again.",Office Chair,positive,Flipkart,2/20/2025,1
+373,"Amazing value for money, the Air Fryer works flawlessly.",Air Fryer,positive,Flipkart,3/21/2025,2
+374,"This Cotton T-Shirt broke after two days of normal use, total waste.",Cotton T-Shirt,negative,Flipkart,6/30/2025,1
+375,"Average Yoga Mat, works as expected but could be better.",Yoga Mat,neutral,Flipkart,8/6/2025,2
+376,"Ordered a Bluetooth Speaker today, let's see how it goes",Bluetooth Speaker,neutral,Twitter,10/11/2025,3
+377,"Air Fryer is amazing, exceeded all expectations #recommend",Air Fryer,positive,Twitter,9/26/2025,3
+378,"Super happy with the Wireless Earbuds, packaging was neat and delivery was quick.",Wireless Earbuds,positive,Flipkart,9/8/2025,1
+379,"Ordered a Smartphone X200 today, let's see how it goes",Smartphone X200,neutral,Twitter,9/16/2025,2
+380,"I'm impressed by how well this Laptop Backpack performs, will buy again.",Laptop Backpack,positive,Flipkart,3/9/2025,5
+381,"This Yoga Mat broke after two days of normal use, total waste.",Yoga Mat,negative,Flipkart,10/23/2025,1
+382,"Smartwatch Pro is amazing, exceeded all expectations #recommend",Smartwatch Pro,positive,Twitter,4/3/2025,2
+383,"Shoutout to great customer service for my Bluetooth Speaker issue, sorted in minutes!",Bluetooth Speaker,positive,Twitter,5/28/2025,1
+384,"Best Air Fryer I have ever bought, highly recommend to everyone.",Air Fryer,positive,Flipkart,12/16/2025,5
+385,"Not happy with the Kitchen Blender, feels cheap and flimsy.",Kitchen Blender,negative,Flipkart,7/3/2025,5
+386,"Terrible experience, the Power Bank does not match the description.",Power Bank,negative,Flipkart,12/12/2025,5
+387,The Yoga Mat looks good but I haven't used it much yet.,Yoga Mat,neutral,Flipkart,3/10/2025,2
+388,"Never buying Smartwatch Pro again, quality control is terrible",Smartwatch Pro,negative,Twitter,9/21/2025,1
+389,"Amazing value for money, the Kitchen Blender works flawlessly.",Kitchen Blender,positive,Flipkart,3/15/2025,3
+390,Late delivery and the Running Shoes was defective on arrival.,Running Shoes,negative,Flipkart,2/8/2025,2
+391,"Never buying Smartphone X200 again, quality control is terrible",Smartphone X200,negative,Twitter,7/8/2025,3
+392,"Fantastic Cotton T-Shirt, customer service was also very helpful.",Cotton T-Shirt,positive,Flipkart,1/31/2025,5
+393,"The Smartphone X200 is okay, does the job but nothing special.",Smartphone X200,neutral,Flipkart,11/25/2025,4
+394,"The Power Bank is functional, waiting to see how it holds up.",Power Bank,neutral,Flipkart,1/22/2025,2
+395,"The Air Fryer is fine, delivery took longer than expected though.",Air Fryer,neutral,Flipkart,8/16/2025,4
+396,"Fantastic Smartphone X200, customer service was also very helpful.",Smartphone X200,positive,Flipkart,12/20/2025,2
+397,"Fantastic Yoga Mat, customer service was also very helpful.",Yoga Mat,positive,Flipkart,4/23/2025,4
+398,"Super happy with the Bluetooth Speaker, packaging was neat and delivery was quick.",Bluetooth Speaker,positive,Flipkart,10/9/2025,3
+399,"Gaming Mouse is amazing, exceeded all expectations #recommend",Gaming Mouse,positive,Twitter,8/24/2025,2
+400,"My Office Chair arrived on time, haven't tried it yet",Office Chair,neutral,Twitter,3/3/2025,2
+401,"This Running Shoes is a total game changer, five stars!",Running Shoes,positive,Flipkart,7/30/2025,2
+402,"Ordered a Air Fryer today, let's see how it goes",Air Fryer,neutral,Twitter,9/28/2025,2
+403,"Poor quality Laptop Backpack, not worth the money at all.",Laptop Backpack,negative,Flipkart,3/16/2025,3
+404,Just got my new Cotton T-Shirt and I'm obsessed! #shopping #happy,Cotton T-Shirt,positive,Twitter,5/4/2025,2
+405,"@Flipkart my Office Chair arrived broken, this is unacceptable",Office Chair,negative,Twitter,10/23/2025,3
+406,"So disappointed with my Sunglasses, total waste of money #fail",Sunglasses,negative,Twitter,3/1/2025,2
+407,"Reasonable Kitchen Blender, matches the pictures on the website.",Kitchen Blender,neutral,Flipkart,6/23/2025,4
+408,"So disappointed with my Smartphone X200, total waste of money #fail",Smartphone X200,negative,Twitter,4/23/2025,3
+409,Just got my new Laptop Backpack and I'm obsessed! #shopping #happy,Laptop Backpack,positive,Twitter,3/13/2025,5
+410,Late delivery and the LED Desk Lamp was defective on arrival.,LED Desk Lamp,negative,Flipkart,7/13/2025,4
+411,"Poor quality Yoga Mat, not worth the money at all.",Yoga Mat,negative,Flipkart,4/1/2025,4
+412,"Ordered a Laptop Backpack today, let's see how it goes",Laptop Backpack,neutral,Twitter,8/30/2025,3
+413,"Can't stop using my Smartwatch Pro, best purchase this year! @Flipkart",Smartwatch Pro,positive,Twitter,10/22/2025,3
+414,"Amazing value for money, the Kitchen Blender works flawlessly.",Kitchen Blender,positive,Flipkart,1/28/2025,1
+415,"Shoutout to great customer service for my Office Chair issue, sorted in minutes!",Office Chair,positive,Twitter,1/24/2025,1
+416,"Never buying Office Chair again, quality control is terrible",Office Chair,negative,Twitter,12/21/2025,1
+417,"Can't stop using my Sunglasses, best purchase this year! @Flipkart",Sunglasses,positive,Twitter,1/4/2025,3
+418,"It's a decent Yoga Mat for the price, no major complaints.",Yoga Mat,neutral,Flipkart,1/16/2025,2
+419,"The LED Desk Lamp stopped charging after a few uses, very frustrating.",LED Desk Lamp,negative,Flipkart,6/26/2025,3
+420,"This Air Fryer broke after two days of normal use, total waste.",Air Fryer,negative,Flipkart,10/27/2025,4
+421,"Yoga Mat is amazing, exceeded all expectations #recommend",Yoga Mat,positive,Twitter,7/11/2025,4
+422,"Air Fryer is amazing, exceeded all expectations #recommend",Air Fryer,positive,Twitter,9/27/2025,4
+423,"Regret buying this Cotton T-Shirt, quality is really bad.",Cotton T-Shirt,negative,Flipkart,11/22/2025,4
+424,Absolutely love this Power Bank! Works perfectly and arrived early.,Power Bank,positive,Flipkart,11/15/2025,2
+425,"My Office Chair arrived on time, haven't tried it yet",Office Chair,neutral,Twitter,10/30/2025,3
+426,"Average Wireless Earbuds, works as expected but could be better.",Wireless Earbuds,neutral,Flipkart,8/9/2025,2
+427,The Bluetooth Speaker arrived damaged and customer support was unhelpful.,Bluetooth Speaker,negative,Flipkart,7/9/2025,3
+428,"Never buying Office Chair again, quality control is terrible",Office Chair,negative,Twitter,5/19/2025,1
+429,"Not happy with the Air Fryer, feels cheap and flimsy.",Air Fryer,negative,Flipkart,5/3/2025,2
+430,"Terrible experience, the LED Desk Lamp does not match the description.",LED Desk Lamp,negative,Flipkart,2/1/2025,4
+431,"@Flipkart my Gaming Mouse arrived broken, this is unacceptable",Gaming Mouse,negative,Twitter,8/8/2025,1
+432,"So disappointed with my Bluetooth Speaker, total waste of money #fail",Bluetooth Speaker,negative,Twitter,8/13/2025,1
+433,"Poor quality Smartphone X200, not worth the money at all.",Smartphone X200,negative,Flipkart,6/14/2025,5
+434,"Super happy with the Smartphone X200, packaging was neat and delivery was quick.",Smartphone X200,positive,Flipkart,3/11/2025,4
+435,"Best Smartwatch Pro I have ever bought, highly recommend to everyone.",Smartwatch Pro,positive,Flipkart,3/10/2025,3
+436,"Terrible experience, the Power Bank does not match the description.",Power Bank,negative,Flipkart,2/6/2025,4
+437,Just got my new Smartwatch Pro and I'm obsessed! #shopping #happy,Smartwatch Pro,positive,Twitter,11/2/2025,4
+438,"Terrible experience, the Cotton T-Shirt does not match the description.",Cotton T-Shirt,negative,Flipkart,1/9/2025,2
+439,"Can't stop using my LED Desk Lamp, best purchase this year! @Flipkart",LED Desk Lamp,positive,Twitter,1/27/2025,3
+440,"This Office Chair is a total game changer, five stars!",Office Chair,positive,Flipkart,3/25/2025,3
+441,The Power Bank looks good but I haven't used it much yet.,Power Bank,neutral,Flipkart,12/8/2025,3
+442,"I'm impressed by how well this Gaming Mouse performs, will buy again.",Gaming Mouse,positive,Flipkart,11/30/2025,3
+443,"Fantastic Sunglasses, customer service was also very helpful.",Sunglasses,positive,Flipkart,12/26/2025,3
+444,"Customer support ignored my Wireless Earbuds complaint for days, frustrating",Wireless Earbuds,negative,Twitter,6/19/2025,4
+445,"Super happy with the Air Fryer, packaging was neat and delivery was quick.",Air Fryer,positive,Flipkart,6/17/2025,4
+446,"Can't stop using my LED Desk Lamp, best purchase this year! @Flipkart",LED Desk Lamp,positive,Twitter,10/15/2025,3
+447,"This Cotton T-Shirt broke after two days of normal use, total waste.",Cotton T-Shirt,negative,Flipkart,1/14/2025,1
+448,"The Office Chair is okay, does the job but nothing special.",Office Chair,neutral,Flipkart,7/30/2025,3
+449,"Excellent build quality on this LED Desk Lamp, using it daily without issues.",LED Desk Lamp,positive,Flipkart,11/18/2025,5
+450,"It's a decent Gaming Mouse for the price, no major complaints.",Gaming Mouse,neutral,Flipkart,7/5/2025,4
+451,"I'm impressed by how well this Air Fryer performs, will buy again.",Air Fryer,positive,Flipkart,1/8/2025,1
+452,Comparing a few Cotton T-Shirt options before I decide,Cotton T-Shirt,neutral,Twitter,6/29/2025,3
+453,"Thinking about buying a Smartwatch Pro, any recommendations?",Smartwatch Pro,neutral,Twitter,2/8/2025,2
+454,"Very disappointed with this Office Chair, stopped working within a week.",Office Chair,negative,Flipkart,11/14/2025,5
+455,"Can't stop using my Sunglasses, best purchase this year! @Flipkart",Sunglasses,positive,Twitter,1/19/2025,4
+456,The Bluetooth Speaker looks good but I haven't used it much yet.,Bluetooth Speaker,neutral,Flipkart,7/24/2025,2
+457,"Very disappointed with this Smartphone X200, stopped working within a week.",Smartphone X200,negative,Flipkart,9/12/2025,4
+458,"This Air Fryer broke after two days of normal use, total waste.",Air Fryer,negative,Flipkart,1/24/2025,2
+459,Late delivery and the Bluetooth Speaker was defective on arrival.,Bluetooth Speaker,negative,Flipkart,2/7/2025,3
+460,Just got my new Gaming Mouse and I'm obsessed! #shopping #happy,Gaming Mouse,positive,Twitter,7/22/2025,3
+461,"The Office Chair works fine, packaging could be improved.",Office Chair,neutral,Flipkart,12/15/2025,4
+462,The Kitchen Blender looks good but I haven't used it much yet.,Kitchen Blender,neutral,Flipkart,3/7/2025,4
+463,"Can't stop using my Wireless Earbuds, best purchase this year! @Flipkart",Wireless Earbuds,positive,Twitter,11/17/2025,4
+464,Late delivery and the Bluetooth Speaker was defective on arrival.,Bluetooth Speaker,negative,Flipkart,7/8/2025,1
+465,"The Power Bank is functional, waiting to see how it holds up.",Power Bank,neutral,Flipkart,12/14/2025,3
+466,"Customer support ignored my Yoga Mat complaint for days, frustrating",Yoga Mat,negative,Twitter,6/17/2025,1
+467,"I'm impressed by how well this Cotton T-Shirt performs, will buy again.",Cotton T-Shirt,positive,Flipkart,1/5/2025,5
+468,"My Running Shoes arrived on time, haven't tried it yet",Running Shoes,neutral,Twitter,12/27/2025,4
+469,Just got my new Smartwatch Pro and I'm obsessed! #shopping #happy,Smartwatch Pro,positive,Twitter,6/27/2025,4
+470,The LED Desk Lamp looks good but I haven't used it much yet.,LED Desk Lamp,neutral,Flipkart,7/23/2025,3
+471,"Poor quality LED Desk Lamp, not worth the money at all.",LED Desk Lamp,negative,Flipkart,2/2/2025,4
+472,"Poor quality LED Desk Lamp, not worth the money at all.",LED Desk Lamp,negative,Flipkart,8/21/2025,3
+473,"Thinking about buying a Bluetooth Speaker, any recommendations?",Bluetooth Speaker,neutral,Twitter,5/7/2025,3
+474,"Reasonable LED Desk Lamp, matches the pictures on the website.",LED Desk Lamp,neutral,Flipkart,3/24/2025,2
+475,"Shoutout to great customer service for my Air Fryer issue, sorted in minutes!",Air Fryer,positive,Twitter,10/6/2025,5
+476,"The Air Fryer is functional, waiting to see how it holds up.",Air Fryer,neutral,Flipkart,11/6/2025,3
+477,"Can't stop using my Air Fryer, best purchase this year! @Flipkart",Air Fryer,positive,Twitter,1/3/2025,5
+478,"I'm impressed by how well this Smartwatch Pro performs, will buy again.",Smartwatch Pro,positive,Flipkart,12/6/2025,5
+479,"Great quality Gaming Mouse for the price, very satisfied with my purchase.",Gaming Mouse,positive,Flipkart,8/28/2025,2
+480,"Best Power Bank I have ever bought, highly recommend to everyone.",Power Bank,positive,Flipkart,3/20/2025,2
+481,"Ordered a Cotton T-Shirt today, let's see how it goes",Cotton T-Shirt,neutral,Twitter,8/11/2025,4
+482,"Shoutout to great customer service for my Air Fryer issue, sorted in minutes!",Air Fryer,positive,Twitter,5/12/2025,4
+483,"@Flipkart my Smartwatch Pro arrived broken, this is unacceptable",Smartwatch Pro,negative,Twitter,2/7/2025,1
+484,"Amazing value for money, the Yoga Mat works flawlessly.",Yoga Mat,positive,Flipkart,12/8/2025,5
+485,Comparing a few Wireless Earbuds options before I decide,Wireless Earbuds,neutral,Twitter,8/20/2025,4
+486,"Very disappointed with this Air Fryer, stopped working within a week.",Air Fryer,negative,Flipkart,8/27/2025,3
+487,Just got my new Bluetooth Speaker and I'm obsessed! #shopping #happy,Bluetooth Speaker,positive,Twitter,11/13/2025,5
+488,"Customer support ignored my Running Shoes complaint for days, frustrating",Running Shoes,negative,Twitter,3/10/2025,2
+489,"The Kitchen Blender is functional, waiting to see how it holds up.",Kitchen Blender,neutral,Flipkart,8/3/2025,2
+490,Just got my new Office Chair and I'm obsessed! #shopping #happy,Office Chair,positive,Twitter,5/6/2025,1
+491,"Cotton T-Shirt is amazing, exceeded all expectations #recommend",Cotton T-Shirt,positive,Twitter,4/9/2025,2
+492,The Laptop Backpack arrived damaged and customer support was unhelpful.,Laptop Backpack,negative,Flipkart,11/5/2025,2
+493,Comparing a few Running Shoes options before I decide,Running Shoes,neutral,Twitter,8/27/2025,3
+494,"Terrible experience, the Bluetooth Speaker does not match the description.",Bluetooth Speaker,negative,Flipkart,12/10/2025,1
+495,"Shoutout to great customer service for my Laptop Backpack issue, sorted in minutes!",Laptop Backpack,positive,Twitter,4/28/2025,4
+496,"I'm impressed by how well this Sunglasses performs, will buy again.",Sunglasses,positive,Flipkart,12/20/2025,2
+497,Late delivery and the Power Bank was defective on arrival.,Power Bank,negative,Flipkart,1/19/2025,5
+498,"Got the Smartwatch Pro yesterday, still testing it out.",Smartwatch Pro,neutral,Flipkart,3/22/2025,4
+499,"Very disappointed with this Smartwatch Pro, stopped working within a week.",Smartwatch Pro,negative,Flipkart,10/17/2025,1
+500,The Bluetooth Speaker arrived damaged and customer support was unhelpful.,Bluetooth Speaker,negative,Flipkart,11/13/2025,4
+501,"Regret buying this Smartphone X200, quality is really bad.",Smartphone X200,negative,Flipkart,9/21/2025,1
+502,"So disappointed with my Yoga Mat, total waste of money #fail",Yoga Mat,negative,Twitter,9/14/2025,3
+503,"Never buying Bluetooth Speaker again, quality control is terrible",Bluetooth Speaker,negative,Twitter,6/25/2025,4
+504,"Thinking about buying a Gaming Mouse, any recommendations?",Gaming Mouse,neutral,Twitter,2/18/2025,3
+505,"I'm impressed by how well this Bluetooth Speaker performs, will buy again.",Bluetooth Speaker,positive,Flipkart,7/28/2025,5
+506,"Customer support ignored my Gaming Mouse complaint for days, frustrating",Gaming Mouse,negative,Twitter,6/13/2025,1
+507,"Amazing value for money, the Kitchen Blender works flawlessly.",Kitchen Blender,positive,Flipkart,8/15/2025,3
+508,"@Flipkart my Cotton T-Shirt arrived broken, this is unacceptable",Cotton T-Shirt,negative,Twitter,6/15/2025,3
+509,"The Smartphone X200 stopped charging after a few uses, very frustrating.",Smartphone X200,negative,Flipkart,8/15/2025,3
+510,"Can't stop using my Smartphone X200, best purchase this year! @Flipkart",Smartphone X200,positive,Twitter,10/3/2025,4
+511,"Reasonable Gaming Mouse, matches the pictures on the website.",Gaming Mouse,neutral,Flipkart,3/8/2025,4
+512,Just got my new Cotton T-Shirt and I'm obsessed! #shopping #happy,Cotton T-Shirt,positive,Twitter,6/21/2025,3
+513,"Poor quality Power Bank, not worth the money at all.",Power Bank,negative,Flipkart,5/22/2025,4
+514,Late delivery and the Air Fryer was defective on arrival.,Air Fryer,negative,Flipkart,3/22/2025,1
+515,"The Air Fryer stopped charging after a few uses, very frustrating.",Air Fryer,negative,Flipkart,5/23/2025,2
+516,"Best Smartphone X200 I have ever bought, highly recommend to everyone.",Smartphone X200,positive,Flipkart,7/25/2025,4
+517,"Excellent build quality on this Bluetooth Speaker, using it daily without issues.",Bluetooth Speaker,positive,Flipkart,3/21/2025,2
+518,"So disappointed with my Power Bank, total waste of money #fail",Power Bank,negative,Twitter,6/24/2025,5
+519,"Great quality Air Fryer for the price, very satisfied with my purchase.",Air Fryer,positive,Flipkart,11/12/2025,5
+520,"Ordered a Smartphone X200 today, let's see how it goes",Smartphone X200,neutral,Twitter,11/9/2025,4
+521,"This Yoga Mat is a total game changer, five stars!",Yoga Mat,positive,Flipkart,2/22/2025,1
+522,"Got the Sunglasses yesterday, still testing it out.",Sunglasses,neutral,Flipkart,9/12/2025,2
+523,"Shoutout to great customer service for my Smartwatch Pro issue, sorted in minutes!",Smartwatch Pro,positive,Twitter,5/17/2025,4
+524,"Yoga Mat is amazing, exceeded all expectations #recommend",Yoga Mat,positive,Twitter,2/1/2025,2
+525,"Never buying Office Chair again, quality control is terrible",Office Chair,negative,Twitter,3/13/2025,2
+526,"Customer support ignored my Running Shoes complaint for days, frustrating",Running Shoes,negative,Twitter,3/28/2025,2
+527,"My Kitchen Blender arrived on time, haven't tried it yet",Kitchen Blender,neutral,Twitter,8/23/2025,4
+528,"The Laptop Backpack exceeded my expectations, fast delivery too.",Laptop Backpack,positive,Flipkart,9/5/2025,3
+529,"@Flipkart my Gaming Mouse arrived broken, this is unacceptable",Gaming Mouse,negative,Twitter,10/20/2025,5
+530,"Shoutout to great customer service for my Office Chair issue, sorted in minutes!",Office Chair,positive,Twitter,8/3/2025,2
+531,"Customer support ignored my Wireless Earbuds complaint for days, frustrating",Wireless Earbuds,negative,Twitter,12/29/2025,2
+532,"My LED Desk Lamp arrived on time, haven't tried it yet",LED Desk Lamp,neutral,Twitter,1/29/2025,3
+533,Late delivery and the Running Shoes was defective on arrival.,Running Shoes,negative,Flipkart,10/30/2025,3
+534,"My LED Desk Lamp arrived on time, haven't tried it yet",LED Desk Lamp,neutral,Twitter,11/18/2025,4
+535,Just got my new Laptop Backpack and I'm obsessed! #shopping #happy,Laptop Backpack,positive,Twitter,3/31/2025,4
+536,"This Wireless Earbuds is a total game changer, five stars!",Wireless Earbuds,positive,Flipkart,6/2/2025,4
+537,"Smartwatch Pro is amazing, exceeded all expectations #recommend",Smartwatch Pro,positive,Twitter,1/9/2025,3
+538,"Customer support ignored my Sunglasses complaint for days, frustrating",Sunglasses,negative,Twitter,10/6/2025,1
+539,"The Sunglasses is okay, does the job but nothing special.",Sunglasses,neutral,Flipkart,8/1/2025,2
+540,"@Flipkart my Running Shoes arrived broken, this is unacceptable",Running Shoes,negative,Twitter,7/16/2025,5
+541,Just got my new Smartphone X200 and I'm obsessed! #shopping #happy,Smartphone X200,positive,Twitter,11/1/2025,1
+542,"Smartwatch Pro is amazing, exceeded all expectations #recommend",Smartwatch Pro,positive,Twitter,4/5/2025,5
+543,"Reasonable Smartphone X200, matches the pictures on the website.",Smartphone X200,neutral,Flipkart,9/16/2025,3
+544,"This Sunglasses broke after two days of normal use, total waste.",Sunglasses,negative,Flipkart,3/14/2025,1
+545,"So disappointed with my Air Fryer, total waste of money #fail",Air Fryer,negative,Twitter,4/2/2025,3
+546,"Best LED Desk Lamp I have ever bought, highly recommend to everyone.",LED Desk Lamp,positive,Flipkart,7/17/2025,5
+547,"Shoutout to great customer service for my Laptop Backpack issue, sorted in minutes!",Laptop Backpack,positive,Twitter,10/15/2025,3
+548,"Neutral experience overall with this Power Bank, meets basic needs.",Power Bank,neutral,Flipkart,8/31/2025,3
+549,"The Bluetooth Speaker is functional, waiting to see how it holds up.",Bluetooth Speaker,neutral,Flipkart,8/14/2025,3
+550,"Worst Gaming Mouse I have purchased, would not recommend.",Gaming Mouse,negative,Flipkart,8/9/2025,4
+551,"Not happy with the Laptop Backpack, feels cheap and flimsy.",Laptop Backpack,negative,Flipkart,9/18/2025,2
+552,"Fantastic Cotton T-Shirt, customer service was also very helpful.",Cotton T-Shirt,positive,Flipkart,12/9/2025,4
+553,"Can't stop using my Cotton T-Shirt, best purchase this year! @Flipkart",Cotton T-Shirt,positive,Twitter,9/13/2025,5
+554,"Fantastic Power Bank, customer service was also very helpful.",Power Bank,positive,Flipkart,8/5/2025,2
+555,"Neutral experience overall with this Power Bank, meets basic needs.",Power Bank,neutral,Flipkart,1/20/2025,4
+556,"Never buying Laptop Backpack again, quality control is terrible",Laptop Backpack,negative,Twitter,3/1/2025,2
+557,"Never buying Air Fryer again, quality control is terrible",Air Fryer,negative,Twitter,3/27/2025,5
+558,"Ordered a Running Shoes today, let's see how it goes",Running Shoes,neutral,Twitter,12/31/2025,2
+559,"Amazing value for money, the Running Shoes works flawlessly.",Running Shoes,positive,Flipkart,4/19/2025,3
+560,"Can't stop using my Bluetooth Speaker, best purchase this year! @Flipkart",Bluetooth Speaker,positive,Twitter,8/23/2025,3
+561,"Running Shoes is amazing, exceeded all expectations #recommend",Running Shoes,positive,Twitter,8/7/2025,5
+562,"Fantastic Smartwatch Pro, customer service was also very helpful.",Smartwatch Pro,positive,Flipkart,8/8/2025,5
+563,The Yoga Mat looks good but I haven't used it much yet.,Yoga Mat,neutral,Flipkart,7/5/2025,3
+564,"Fantastic Yoga Mat, customer service was also very helpful.",Yoga Mat,positive,Flipkart,11/7/2025,3
+565,"This Yoga Mat broke after two days of normal use, total waste.",Yoga Mat,negative,Flipkart,5/29/2025,3
+566,"The Wireless Earbuds is fine, delivery took longer than expected though.",Wireless Earbuds,neutral,Flipkart,5/27/2025,3
+567,"Ordered a Running Shoes today, let's see how it goes",Running Shoes,neutral,Twitter,7/29/2025,2
+568,"The Laptop Backpack exceeded my expectations, fast delivery too.",Laptop Backpack,positive,Flipkart,4/8/2025,5
+569,"The Gaming Mouse exceeded my expectations, fast delivery too.",Gaming Mouse,positive,Flipkart,2/2/2025,4
+570,"Got the Bluetooth Speaker yesterday, still testing it out.",Bluetooth Speaker,neutral,Flipkart,6/6/2025,3
+571,"Ordered a Laptop Backpack today, let's see how it goes",Laptop Backpack,neutral,Twitter,1/31/2025,3
+572,"So disappointed with my Wireless Earbuds, total waste of money #fail",Wireless Earbuds,negative,Twitter,3/22/2025,4
+573,"Reasonable Cotton T-Shirt, matches the pictures on the website.",Cotton T-Shirt,neutral,Flipkart,3/27/2025,4
+574,Comparing a few Office Chair options before I decide,Office Chair,neutral,Twitter,10/9/2025,3
+575,"Worst Gaming Mouse I have purchased, would not recommend.",Gaming Mouse,negative,Flipkart,9/14/2025,5
+576,Just got my new Kitchen Blender and I'm obsessed! #shopping #happy,Kitchen Blender,positive,Twitter,2/7/2025,2
+577,"The Cotton T-Shirt is okay, does the job but nothing special.",Cotton T-Shirt,neutral,Flipkart,11/20/2025,4
+578,"Thinking about buying a Gaming Mouse, any recommendations?",Gaming Mouse,neutral,Twitter,3/3/2025,2
+579,"Fantastic Office Chair, customer service was also very helpful.",Office Chair,positive,Flipkart,10/16/2025,1
+580,"This Kitchen Blender broke after two days of normal use, total waste.",Kitchen Blender,negative,Flipkart,6/23/2025,2
+581,"The Laptop Backpack is fine, delivery took longer than expected though.",Laptop Backpack,neutral,Flipkart,10/26/2025,3
+582,"Terrible experience, the Sunglasses does not match the description.",Sunglasses,negative,Flipkart,9/29/2025,5
+583,"Average Bluetooth Speaker, works as expected but could be better.",Bluetooth Speaker,neutral,Flipkart,6/18/2025,2
+584,The Running Shoes arrived damaged and customer support was unhelpful.,Running Shoes,negative,Flipkart,2/10/2025,5
+585,"Excellent build quality on this Smartwatch Pro, using it daily without issues.",Smartwatch Pro,positive,Flipkart,4/18/2025,4
+586,"Super happy with the Yoga Mat, packaging was neat and delivery was quick.",Yoga Mat,positive,Flipkart,11/7/2025,5
+587,"This Gaming Mouse is a total game changer, five stars!",Gaming Mouse,positive,Flipkart,4/15/2025,3
+588,"Average Air Fryer, works as expected but could be better.",Air Fryer,neutral,Flipkart,9/26/2025,3
+589,Comparing a few Bluetooth Speaker options before I decide,Bluetooth Speaker,neutral,Twitter,9/20/2025,2
+590,"This Smartwatch Pro broke after two days of normal use, total waste.",Smartwatch Pro,negative,Flipkart,1/12/2025,4
+591,"This Office Chair broke after two days of normal use, total waste.",Office Chair,negative,Flipkart,8/24/2025,3
+592,Late delivery and the Air Fryer was defective on arrival.,Air Fryer,negative,Flipkart,8/3/2025,5
+593,"So disappointed with my Running Shoes, total waste of money #fail",Running Shoes,negative,Twitter,4/6/2025,4
+594,"This Bluetooth Speaker broke after two days of normal use, total waste.",Bluetooth Speaker,negative,Flipkart,7/11/2025,2
+595,"Can't stop using my LED Desk Lamp, best purchase this year! @Flipkart",LED Desk Lamp,positive,Twitter,4/25/2025,1
+596,"Shoutout to great customer service for my LED Desk Lamp issue, sorted in minutes!",LED Desk Lamp,positive,Twitter,2/9/2025,5
+597,"Never buying Running Shoes again, quality control is terrible",Running Shoes,negative,Twitter,5/4/2025,3
+598,"Wireless Earbuds is amazing, exceeded all expectations #recommend",Wireless Earbuds,positive,Twitter,4/2/2025,1
+599,"Never buying Wireless Earbuds again, quality control is terrible",Wireless Earbuds,negative,Twitter,4/26/2025,5
+600,"@Flipkart my LED Desk Lamp arrived broken, this is unacceptable",LED Desk Lamp,negative,Twitter,10/17/2025,4
+601,Absolutely love this Office Chair! Works perfectly and arrived early.,Office Chair,positive,Flipkart,5/15/2025,5
+602,"Not happy with the Kitchen Blender, feels cheap and flimsy.",Kitchen Blender,negative,Flipkart,1/29/2025,1
+603,"Super happy with the Office Chair, packaging was neat and delivery was quick.",Office Chair,positive,Flipkart,5/5/2025,2
+604,"This Laptop Backpack broke after two days of normal use, total waste.",Laptop Backpack,negative,Flipkart,4/19/2025,2
+605,"Can't stop using my Yoga Mat, best purchase this year! @Flipkart",Yoga Mat,positive,Twitter,5/29/2025,1
+606,Absolutely love this Running Shoes! Works perfectly and arrived early.,Running Shoes,positive,Flipkart,5/14/2025,4
+607,Comparing a few LED Desk Lamp options before I decide,LED Desk Lamp,neutral,Twitter,8/5/2025,4
+608,"Can't stop using my Laptop Backpack, best purchase this year! @Flipkart",Laptop Backpack,positive,Twitter,11/14/2025,5
+609,"Shoutout to great customer service for my Bluetooth Speaker issue, sorted in minutes!",Bluetooth Speaker,positive,Twitter,10/26/2025,5
+610,"The Air Fryer is functional, waiting to see how it holds up.",Air Fryer,neutral,Flipkart,8/23/2025,2
+611,"This Yoga Mat broke after two days of normal use, total waste.",Yoga Mat,negative,Flipkart,10/21/2025,2
+612,"Very disappointed with this Yoga Mat, stopped working within a week.",Yoga Mat,negative,Flipkart,4/15/2025,3
+613,"Not happy with the Kitchen Blender, feels cheap and flimsy.",Kitchen Blender,negative,Flipkart,7/27/2025,4
+614,Just got my new Gaming Mouse and I'm obsessed! #shopping #happy,Gaming Mouse,positive,Twitter,10/5/2025,1
+615,"Thinking about buying a Running Shoes, any recommendations?",Running Shoes,neutral,Twitter,5/30/2025,3
+616,"Poor quality Power Bank, not worth the money at all.",Power Bank,negative,Flipkart,8/14/2025,1
+617,"Smartphone X200 is amazing, exceeded all expectations #recommend",Smartphone X200,positive,Twitter,7/14/2025,4
+618,"Thinking about buying a Gaming Mouse, any recommendations?",Gaming Mouse,neutral,Twitter,12/26/2025,2
+619,"Super happy with the Running Shoes, packaging was neat and delivery was quick.",Running Shoes,positive,Flipkart,3/7/2025,1
+620,"My Power Bank arrived on time, haven't tried it yet",Power Bank,neutral,Twitter,6/12/2025,3
+621,"The Cotton T-Shirt works fine, packaging could be improved.",Cotton T-Shirt,neutral,Flipkart,5/27/2025,4
+622,"Shoutout to great customer service for my Office Chair issue, sorted in minutes!",Office Chair,positive,Twitter,11/16/2025,5
+623,"It's a decent Wireless Earbuds for the price, no major complaints.",Wireless Earbuds,neutral,Flipkart,8/14/2025,3
+624,Just got my new Smartwatch Pro and I'm obsessed! #shopping #happy,Smartwatch Pro,positive,Twitter,2/15/2025,5
+625,"Fantastic LED Desk Lamp, customer service was also very helpful.",LED Desk Lamp,positive,Flipkart,6/12/2025,4
+626,"Poor quality Power Bank, not worth the money at all.",Power Bank,negative,Flipkart,5/5/2025,4
+627,"Great quality Smartwatch Pro for the price, very satisfied with my purchase.",Smartwatch Pro,positive,Flipkart,12/26/2025,1
+628,"Customer support ignored my Bluetooth Speaker complaint for days, frustrating",Bluetooth Speaker,negative,Twitter,5/24/2025,4
+629,"Power Bank is amazing, exceeded all expectations #recommend",Power Bank,positive,Twitter,3/1/2025,2
+630,Just got my new Smartwatch Pro and I'm obsessed! #shopping #happy,Smartwatch Pro,positive,Twitter,7/17/2025,5
+631,"Best LED Desk Lamp I have ever bought, highly recommend to everyone.",LED Desk Lamp,positive,Flipkart,7/13/2025,1
+632,"It's a decent Kitchen Blender for the price, no major complaints.",Kitchen Blender,neutral,Flipkart,3/25/2025,2
+633,"Reasonable Air Fryer, matches the pictures on the website.",Air Fryer,neutral,Flipkart,7/6/2025,4
+634,Late delivery and the Bluetooth Speaker was defective on arrival.,Bluetooth Speaker,negative,Flipkart,5/17/2025,1
+635,Late delivery and the Power Bank was defective on arrival.,Power Bank,negative,Flipkart,7/7/2025,1
+636,"Got the Running Shoes yesterday, still testing it out.",Running Shoes,neutral,Flipkart,3/26/2025,2
+637,"Not happy with the Office Chair, feels cheap and flimsy.",Office Chair,negative,Flipkart,8/15/2025,4
+638,"Got the Air Fryer yesterday, still testing it out.",Air Fryer,neutral,Flipkart,11/11/2025,4
+639,"My Cotton T-Shirt arrived on time, haven't tried it yet",Cotton T-Shirt,neutral,Twitter,11/15/2025,2
+640,"Can't stop using my Cotton T-Shirt, best purchase this year! @Flipkart",Cotton T-Shirt,positive,Twitter,3/16/2025,1
+641,"Great quality Office Chair for the price, very satisfied with my purchase.",Office Chair,positive,Flipkart,8/5/2025,2
+642,"Never buying Wireless Earbuds again, quality control is terrible",Wireless Earbuds,negative,Twitter,11/28/2025,1
+643,Late delivery and the Power Bank was defective on arrival.,Power Bank,negative,Flipkart,1/19/2025,4
+644,"Can't stop using my Running Shoes, best purchase this year! @Flipkart",Running Shoes,positive,Twitter,6/17/2025,5
+645,"@Flipkart my Gaming Mouse arrived broken, this is unacceptable",Gaming Mouse,negative,Twitter,9/2/2025,1
+646,"Can't stop using my Sunglasses, best purchase this year! @Flipkart",Sunglasses,positive,Twitter,7/28/2025,4
+647,"My Cotton T-Shirt arrived on time, haven't tried it yet",Cotton T-Shirt,neutral,Twitter,12/20/2025,2
+648,"Neutral experience overall with this Office Chair, meets basic needs.",Office Chair,neutral,Flipkart,3/19/2025,2
+649,"Customer support ignored my Smartwatch Pro complaint for days, frustrating",Smartwatch Pro,negative,Twitter,6/3/2025,4
+650,"Not happy with the Office Chair, feels cheap and flimsy.",Office Chair,negative,Flipkart,10/24/2025,4
+651,"Great quality Yoga Mat for the price, very satisfied with my purchase.",Yoga Mat,positive,Flipkart,10/4/2025,5
+652,"Super happy with the Bluetooth Speaker, packaging was neat and delivery was quick.",Bluetooth Speaker,positive,Flipkart,2/5/2025,3
+653,"Great quality Gaming Mouse for the price, very satisfied with my purchase.",Gaming Mouse,positive,Flipkart,8/11/2025,2
+654,"Amazing value for money, the Bluetooth Speaker works flawlessly.",Bluetooth Speaker,positive,Flipkart,5/19/2025,3
+655,"So disappointed with my Smartwatch Pro, total waste of money #fail",Smartwatch Pro,negative,Twitter,12/30/2025,1
+656,"Ordered a Yoga Mat today, let's see how it goes",Yoga Mat,neutral,Twitter,7/25/2025,2
+657,"Average Gaming Mouse, works as expected but could be better.",Gaming Mouse,neutral,Flipkart,6/8/2025,4
+658,"Fantastic Running Shoes, customer service was also very helpful.",Running Shoes,positive,Flipkart,5/16/2025,1
+659,Absolutely love this Office Chair! Works perfectly and arrived early.,Office Chair,positive,Flipkart,10/13/2025,2
+660,"Shoutout to great customer service for my Air Fryer issue, sorted in minutes!",Air Fryer,positive,Twitter,9/3/2025,2
+661,Just got my new Air Fryer and I'm obsessed! #shopping #happy,Air Fryer,positive,Twitter,9/26/2025,1
+662,The Office Chair looks good but I haven't used it much yet.,Office Chair,neutral,Flipkart,8/17/2025,2
+663,The Yoga Mat looks good but I haven't used it much yet.,Yoga Mat,neutral,Flipkart,9/21/2025,4
+664,Comparing a few Kitchen Blender options before I decide,Kitchen Blender,neutral,Twitter,3/30/2025,3
+665,"Excellent build quality on this LED Desk Lamp, using it daily without issues.",LED Desk Lamp,positive,Flipkart,10/11/2025,1
+666,"Not happy with the Yoga Mat, feels cheap and flimsy.",Yoga Mat,negative,Flipkart,1/26/2025,1
+667,Absolutely love this Wireless Earbuds! Works perfectly and arrived early.,Wireless Earbuds,positive,Flipkart,10/27/2025,4
+668,"Regret buying this LED Desk Lamp, quality is really bad.",LED Desk Lamp,negative,Flipkart,10/17/2025,2
+669,"Average Kitchen Blender, works as expected but could be better.",Kitchen Blender,neutral,Flipkart,7/11/2025,2
+670,"Regret buying this Wireless Earbuds, quality is really bad.",Wireless Earbuds,negative,Flipkart,8/19/2025,5
+671,"@Flipkart my Gaming Mouse arrived broken, this is unacceptable",Gaming Mouse,negative,Twitter,10/12/2025,2
+672,"Neutral experience overall with this Kitchen Blender, meets basic needs.",Kitchen Blender,neutral,Flipkart,7/11/2025,2
+673,"The Sunglasses works fine, packaging could be improved.",Sunglasses,neutral,Flipkart,2/14/2025,4
+674,"Poor quality Air Fryer, not worth the money at all.",Air Fryer,negative,Flipkart,9/29/2025,5
+675,"It's a decent Wireless Earbuds for the price, no major complaints.",Wireless Earbuds,neutral,Flipkart,2/4/2025,2
+676,"Can't stop using my Sunglasses, best purchase this year! @Flipkart",Sunglasses,positive,Twitter,12/5/2025,5
+677,"Amazing value for money, the Cotton T-Shirt works flawlessly.",Cotton T-Shirt,positive,Flipkart,5/5/2025,4
+678,"The Bluetooth Speaker is fine, delivery took longer than expected though.",Bluetooth Speaker,neutral,Flipkart,6/27/2025,4
+679,"The Smartphone X200 exceeded my expectations, fast delivery too.",Smartphone X200,positive,Flipkart,3/2/2025,5
+680,"Customer support ignored my Yoga Mat complaint for days, frustrating",Yoga Mat,negative,Twitter,10/7/2025,2
+681,"Customer support ignored my Running Shoes complaint for days, frustrating",Running Shoes,negative,Twitter,6/13/2025,3
+682,"The Laptop Backpack works fine, packaging could be improved.",Laptop Backpack,neutral,Flipkart,1/14/2025,3
+683,"Thinking about buying a Cotton T-Shirt, any recommendations?",Cotton T-Shirt,neutral,Twitter,11/28/2025,3
+684,"I'm impressed by how well this Cotton T-Shirt performs, will buy again.",Cotton T-Shirt,positive,Flipkart,6/11/2025,3
+685,"Ordered a Air Fryer today, let's see how it goes",Air Fryer,neutral,Twitter,9/12/2025,3
+686,Just got my new Sunglasses and I'm obsessed! #shopping #happy,Sunglasses,positive,Twitter,8/30/2025,1
+687,"I'm impressed by how well this Cotton T-Shirt performs, will buy again.",Cotton T-Shirt,positive,Flipkart,8/7/2025,5
+688,"Super happy with the Yoga Mat, packaging was neat and delivery was quick.",Yoga Mat,positive,Flipkart,4/8/2025,1
+689,"My LED Desk Lamp arrived on time, haven't tried it yet",LED Desk Lamp,neutral,Twitter,3/27/2025,3
+690,"Poor quality Kitchen Blender, not worth the money at all.",Kitchen Blender,negative,Flipkart,4/26/2025,1
+691,"Great quality Running Shoes for the price, very satisfied with my purchase.",Running Shoes,positive,Flipkart,10/16/2025,3
+692,Just got my new Sunglasses and I'm obsessed! #shopping #happy,Sunglasses,positive,Twitter,1/17/2025,4
+693,"Got the Yoga Mat yesterday, still testing it out.",Yoga Mat,neutral,Flipkart,7/15/2025,4
+694,The Running Shoes looks good but I haven't used it much yet.,Running Shoes,neutral,Flipkart,7/10/2025,3
+695,"The Cotton T-Shirt stopped charging after a few uses, very frustrating.",Cotton T-Shirt,negative,Flipkart,11/17/2025,4
+696,Absolutely love this Office Chair! Works perfectly and arrived early.,Office Chair,positive,Flipkart,2/27/2025,3
+697,"The Smartphone X200 is functional, waiting to see how it holds up.",Smartphone X200,neutral,Flipkart,12/6/2025,2
+698,"Excellent build quality on this Smartphone X200, using it daily without issues.",Smartphone X200,positive,Flipkart,12/17/2025,5
+699,"Worst Sunglasses I have purchased, would not recommend.",Sunglasses,negative,Flipkart,7/31/2025,3
+700,"The Air Fryer stopped charging after a few uses, very frustrating.",Air Fryer,negative,Flipkart,4/25/2025,1
+701,"The Power Bank stopped charging after a few uses, very frustrating.",Power Bank,negative,Flipkart,7/24/2025,4
+702,"Super happy with the Cotton T-Shirt, packaging was neat and delivery was quick.",Cotton T-Shirt,positive,Flipkart,7/23/2025,2
+703,"This Smartwatch Pro broke after two days of normal use, total waste.",Smartwatch Pro,negative,Flipkart,6/23/2025,3
+704,Comparing a few Running Shoes options before I decide,Running Shoes,neutral,Twitter,4/13/2025,4
+705,"Can't stop using my Running Shoes, best purchase this year! @Flipkart",Running Shoes,positive,Twitter,9/2/2025,3
+706,"Great quality Smartwatch Pro for the price, very satisfied with my purchase.",Smartwatch Pro,positive,Flipkart,6/28/2025,1
+707,Just got my new Kitchen Blender and I'm obsessed! #shopping #happy,Kitchen Blender,positive,Twitter,1/9/2025,5
+708,Just got my new Wireless Earbuds and I'm obsessed! #shopping #happy,Wireless Earbuds,positive,Twitter,9/30/2025,5
+709,"It's a decent Gaming Mouse for the price, no major complaints.",Gaming Mouse,neutral,Flipkart,5/30/2025,3
+710,"It's a decent Yoga Mat for the price, no major complaints.",Yoga Mat,neutral,Flipkart,5/20/2025,3
+711,"Worst Smartwatch Pro I have purchased, would not recommend.",Smartwatch Pro,negative,Flipkart,9/20/2025,1
+712,"This Office Chair broke after two days of normal use, total waste.",Office Chair,negative,Flipkart,4/12/2025,4
+713,"The Power Bank exceeded my expectations, fast delivery too.",Power Bank,positive,Flipkart,4/25/2025,1
+714,"The Smartphone X200 is fine, delivery took longer than expected though.",Smartphone X200,neutral,Flipkart,8/19/2025,3
+715,"Best Cotton T-Shirt I have ever bought, highly recommend to everyone.",Cotton T-Shirt,positive,Flipkart,12/12/2025,2
+716,"Terrible experience, the Kitchen Blender does not match the description.",Kitchen Blender,negative,Flipkart,11/17/2025,4
+717,"Can't stop using my Gaming Mouse, best purchase this year! @Flipkart",Gaming Mouse,positive,Twitter,1/8/2025,3
+718,"Customer support ignored my Air Fryer complaint for days, frustrating",Air Fryer,negative,Twitter,2/13/2025,5
+719,"Amazing value for money, the Air Fryer works flawlessly.",Air Fryer,positive,Flipkart,8/18/2025,1
+720,"Ordered a Smartwatch Pro today, let's see how it goes",Smartwatch Pro,neutral,Twitter,1/12/2025,2
+721,"Excellent build quality on this Smartwatch Pro, using it daily without issues.",Smartwatch Pro,positive,Flipkart,11/6/2025,2
+722,Absolutely love this Bluetooth Speaker! Works perfectly and arrived early.,Bluetooth Speaker,positive,Flipkart,9/11/2025,3
+723,"Thinking about buying a Sunglasses, any recommendations?",Sunglasses,neutral,Twitter,11/19/2025,4
+724,Just got my new Bluetooth Speaker and I'm obsessed! #shopping #happy,Bluetooth Speaker,positive,Twitter,8/2/2025,5
+725,"Shoutout to great customer service for my Kitchen Blender issue, sorted in minutes!",Kitchen Blender,positive,Twitter,8/30/2025,1
+726,"LED Desk Lamp is amazing, exceeded all expectations #recommend",LED Desk Lamp,positive,Twitter,8/22/2025,5
+727,"Customer support ignored my Office Chair complaint for days, frustrating",Office Chair,negative,Twitter,2/22/2025,1
+728,"Great quality Kitchen Blender for the price, very satisfied with my purchase.",Kitchen Blender,positive,Flipkart,12/10/2025,3
+729,"This Yoga Mat broke after two days of normal use, total waste.",Yoga Mat,negative,Flipkart,10/30/2025,1
+730,Absolutely love this Kitchen Blender! Works perfectly and arrived early.,Kitchen Blender,positive,Flipkart,1/16/2025,1
+731,"The Wireless Earbuds stopped charging after a few uses, very frustrating.",Wireless Earbuds,negative,Flipkart,7/25/2025,4
+732,"The Laptop Backpack exceeded my expectations, fast delivery too.",Laptop Backpack,positive,Flipkart,2/2/2025,3
+733,"I'm impressed by how well this Yoga Mat performs, will buy again.",Yoga Mat,positive,Flipkart,9/6/2025,2
+734,"Ordered a Kitchen Blender today, let's see how it goes",Kitchen Blender,neutral,Twitter,11/24/2025,4
+735,"It's a decent Bluetooth Speaker for the price, no major complaints.",Bluetooth Speaker,neutral,Flipkart,10/10/2025,4
+736,The Smartphone X200 looks good but I haven't used it much yet.,Smartphone X200,neutral,Flipkart,5/4/2025,3
+737,"Terrible experience, the Gaming Mouse does not match the description.",Gaming Mouse,negative,Flipkart,10/18/2025,5
+738,"Great quality LED Desk Lamp for the price, very satisfied with my purchase.",LED Desk Lamp,positive,Flipkart,5/16/2025,5
+739,"Best Smartphone X200 I have ever bought, highly recommend to everyone.",Smartphone X200,positive,Flipkart,10/11/2025,2
+740,"@Flipkart my Running Shoes arrived broken, this is unacceptable",Running Shoes,negative,Twitter,6/19/2025,5
+741,"Very disappointed with this Bluetooth Speaker, stopped working within a week.",Bluetooth Speaker,negative,Flipkart,5/31/2025,3
+742,"Regret buying this Cotton T-Shirt, quality is really bad.",Cotton T-Shirt,negative,Flipkart,4/30/2025,4
+743,Just got my new Office Chair and I'm obsessed! #shopping #happy,Office Chair,positive,Twitter,8/21/2025,2
+744,"So disappointed with my Smartphone X200, total waste of money #fail",Smartphone X200,negative,Twitter,2/20/2025,3
+745,"Average Laptop Backpack, works as expected but could be better.",Laptop Backpack,neutral,Flipkart,4/13/2025,2
+746,"Can't stop using my Wireless Earbuds, best purchase this year! @Flipkart",Wireless Earbuds,positive,Twitter,9/16/2025,4
+747,"Got the Sunglasses yesterday, still testing it out.",Sunglasses,neutral,Flipkart,2/10/2025,3
+748,"Can't stop using my Smartwatch Pro, best purchase this year! @Flipkart",Smartwatch Pro,positive,Twitter,6/19/2025,1
+749,"Poor quality Office Chair, not worth the money at all.",Office Chair,negative,Flipkart,6/10/2025,5
+750,"I'm impressed by how well this Smartphone X200 performs, will buy again.",Smartphone X200,positive,Flipkart,11/28/2025,3
+751,"The LED Desk Lamp exceeded my expectations, fast delivery too.",LED Desk Lamp,positive,Flipkart,12/20/2025,4
+752,Comparing a few Smartphone X200 options before I decide,Smartphone X200,neutral,Twitter,3/1/2025,3
+753,"Customer support ignored my Laptop Backpack complaint for days, frustrating",Laptop Backpack,negative,Twitter,2/24/2025,2
+754,"I'm impressed by how well this Office Chair performs, will buy again.",Office Chair,positive,Flipkart,8/20/2025,1
+755,"I'm impressed by how well this Sunglasses performs, will buy again.",Sunglasses,positive,Flipkart,2/11/2025,2
+756,"The Air Fryer is fine, delivery took longer than expected though.",Air Fryer,neutral,Flipkart,6/14/2025,4
+757,"Can't stop using my Kitchen Blender, best purchase this year! @Flipkart",Kitchen Blender,positive,Twitter,7/30/2025,5
+758,"Super happy with the Power Bank, packaging was neat and delivery was quick.",Power Bank,positive,Flipkart,10/3/2025,5
+759,"Can't stop using my Yoga Mat, best purchase this year! @Flipkart",Yoga Mat,positive,Twitter,12/15/2025,5
+760,"Average Power Bank, works as expected but could be better.",Power Bank,neutral,Flipkart,11/11/2025,4
+761,"Amazing value for money, the LED Desk Lamp works flawlessly.",LED Desk Lamp,positive,Flipkart,2/16/2025,1
+762,"So disappointed with my Wireless Earbuds, total waste of money #fail",Wireless Earbuds,negative,Twitter,11/17/2025,4
+763,"The LED Desk Lamp is functional, waiting to see how it holds up.",LED Desk Lamp,neutral,Flipkart,9/28/2025,3
+764,"Never buying Gaming Mouse again, quality control is terrible",Gaming Mouse,negative,Twitter,12/30/2025,5
+765,"Yoga Mat is amazing, exceeded all expectations #recommend",Yoga Mat,positive,Twitter,9/23/2025,4
+766,The Gaming Mouse arrived damaged and customer support was unhelpful.,Gaming Mouse,negative,Flipkart,8/1/2025,1
+767,"Amazing value for money, the Running Shoes works flawlessly.",Running Shoes,positive,Flipkart,10/6/2025,3
+768,The Running Shoes looks good but I haven't used it much yet.,Running Shoes,neutral,Flipkart,11/25/2025,2
+769,"Super happy with the Smartwatch Pro, packaging was neat and delivery was quick.",Smartwatch Pro,positive,Flipkart,12/23/2025,5
+770,"Customer support ignored my Air Fryer complaint for days, frustrating",Air Fryer,negative,Twitter,7/12/2025,4
+771,Absolutely love this Kitchen Blender! Works perfectly and arrived early.,Kitchen Blender,positive,Flipkart,4/16/2025,4
+772,"So disappointed with my Smartwatch Pro, total waste of money #fail",Smartwatch Pro,negative,Twitter,7/22/2025,3
+773,"Fantastic Cotton T-Shirt, customer service was also very helpful.",Cotton T-Shirt,positive,Flipkart,12/6/2025,1
+774,"Terrible experience, the Power Bank does not match the description.",Power Bank,negative,Flipkart,2/20/2025,3
+775,"Never buying Cotton T-Shirt again, quality control is terrible",Cotton T-Shirt,negative,Twitter,7/17/2025,1
+776,"This Power Bank is a total game changer, five stars!",Power Bank,positive,Flipkart,10/26/2025,5
+777,Late delivery and the Air Fryer was defective on arrival.,Air Fryer,negative,Flipkart,8/25/2025,4
+778,"Ordered a Air Fryer today, let's see how it goes",Air Fryer,neutral,Twitter,10/26/2025,4
+779,"My Bluetooth Speaker arrived on time, haven't tried it yet",Bluetooth Speaker,neutral,Twitter,3/9/2025,3
+780,"Customer support ignored my Kitchen Blender complaint for days, frustrating",Kitchen Blender,negative,Twitter,9/8/2025,2
+781,"Super happy with the Kitchen Blender, packaging was neat and delivery was quick.",Kitchen Blender,positive,Flipkart,11/2/2025,4
+782,"Super happy with the Wireless Earbuds, packaging was neat and delivery was quick.",Wireless Earbuds,positive,Flipkart,5/16/2025,4
+783,"Reasonable Air Fryer, matches the pictures on the website.",Air Fryer,neutral,Flipkart,9/18/2025,3
+784,"Fantastic Power Bank, customer service was also very helpful.",Power Bank,positive,Flipkart,7/14/2025,4
+785,"Fantastic Smartphone X200, customer service was also very helpful.",Smartphone X200,positive,Flipkart,11/19/2025,1
+786,"Laptop Backpack is amazing, exceeded all expectations #recommend",Laptop Backpack,positive,Twitter,6/3/2025,3
+787,"So disappointed with my Smartphone X200, total waste of money #fail",Smartphone X200,negative,Twitter,1/3/2025,3
+788,"Can't stop using my Laptop Backpack, best purchase this year! @Flipkart",Laptop Backpack,positive,Twitter,3/10/2025,4
+789,"Neutral experience overall with this Office Chair, meets basic needs.",Office Chair,neutral,Flipkart,8/28/2025,3
+790,"Got the Wireless Earbuds yesterday, still testing it out.",Wireless Earbuds,neutral,Flipkart,8/30/2025,4
+791,"Customer support ignored my Laptop Backpack complaint for days, frustrating",Laptop Backpack,negative,Twitter,4/19/2025,4
+792,"Terrible experience, the Smartphone X200 does not match the description.",Smartphone X200,negative,Flipkart,3/8/2025,5
+793,"Reasonable Yoga Mat, matches the pictures on the website.",Yoga Mat,neutral,Flipkart,10/22/2025,2
+794,The Power Bank arrived damaged and customer support was unhelpful.,Power Bank,negative,Flipkart,3/8/2025,5
+795,"Customer support ignored my Gaming Mouse complaint for days, frustrating",Gaming Mouse,negative,Twitter,10/9/2025,5
+796,"Ordered a Kitchen Blender today, let's see how it goes",Kitchen Blender,neutral,Twitter,6/8/2025,4
+797,"Terrible experience, the Power Bank does not match the description.",Power Bank,negative,Flipkart,2/15/2025,4
+798,"Excellent build quality on this Laptop Backpack, using it daily without issues.",Laptop Backpack,positive,Flipkart,8/12/2025,4
+799,"Terrible experience, the Laptop Backpack does not match the description.",Laptop Backpack,negative,Flipkart,6/29/2025,2
+800,"Can't stop using my Cotton T-Shirt, best purchase this year! @Flipkart",Cotton T-Shirt,positive,Twitter,12/23/2025,2
+801,"The Wireless Earbuds is fine, delivery took longer than expected though.",Wireless Earbuds,neutral,Flipkart,12/29/2025,3
+802,"This Sunglasses broke after two days of normal use, total waste.",Sunglasses,negative,Flipkart,1/15/2025,2
+803,"Great quality Yoga Mat for the price, very satisfied with my purchase.",Yoga Mat,positive,Flipkart,3/7/2025,4
+804,"Customer support ignored my Bluetooth Speaker complaint for days, frustrating",Bluetooth Speaker,negative,Twitter,11/14/2025,1
+805,Just got my new Yoga Mat and I'm obsessed! #shopping #happy,Yoga Mat,positive,Twitter,7/31/2025,2
+806,"The Laptop Backpack exceeded my expectations, fast delivery too.",Laptop Backpack,positive,Flipkart,12/8/2025,1
+807,"@Flipkart my Yoga Mat arrived broken, this is unacceptable",Yoga Mat,negative,Twitter,4/18/2025,5
+808,The Power Bank arrived damaged and customer support was unhelpful.,Power Bank,negative,Flipkart,6/18/2025,4
+809,"Not happy with the Yoga Mat, feels cheap and flimsy.",Yoga Mat,negative,Flipkart,1/2/2025,3
+810,"Amazing value for money, the Smartwatch Pro works flawlessly.",Smartwatch Pro,positive,Flipkart,5/8/2025,1
+811,"Can't stop using my Office Chair, best purchase this year! @Flipkart",Office Chair,positive,Twitter,4/26/2025,3
+812,"Not happy with the Laptop Backpack, feels cheap and flimsy.",Laptop Backpack,negative,Flipkart,10/28/2025,1
+813,"Amazing value for money, the Bluetooth Speaker works flawlessly.",Bluetooth Speaker,positive,Flipkart,10/11/2025,5
+814,The LED Desk Lamp arrived damaged and customer support was unhelpful.,LED Desk Lamp,negative,Flipkart,5/28/2025,4
+815,"Excellent build quality on this Cotton T-Shirt, using it daily without issues.",Cotton T-Shirt,positive,Flipkart,1/23/2025,4
+816,The Sunglasses looks good but I haven't used it much yet.,Sunglasses,neutral,Flipkart,6/8/2025,4
+817,"Poor quality Smartphone X200, not worth the money at all.",Smartphone X200,negative,Flipkart,5/1/2025,5
+818,"Never buying Power Bank again, quality control is terrible",Power Bank,negative,Twitter,1/5/2025,4
+819,"Never buying Power Bank again, quality control is terrible",Power Bank,negative,Twitter,10/5/2025,1
+820,"Office Chair is amazing, exceeded all expectations #recommend",Office Chair,positive,Twitter,7/12/2025,1
+821,"Yoga Mat is amazing, exceeded all expectations #recommend",Yoga Mat,positive,Twitter,6/13/2025,2
+822,"This Office Chair is a total game changer, five stars!",Office Chair,positive,Flipkart,2/7/2025,1
+823,"Shoutout to great customer service for my Office Chair issue, sorted in minutes!",Office Chair,positive,Twitter,4/9/2025,1
+824,"Super happy with the Wireless Earbuds, packaging was neat and delivery was quick.",Wireless Earbuds,positive,Flipkart,6/22/2025,4
+825,"Worst Running Shoes I have purchased, would not recommend.",Running Shoes,negative,Flipkart,3/9/2025,5
+826,"Not happy with the Running Shoes, feels cheap and flimsy.",Running Shoes,negative,Flipkart,4/16/2025,1
+827,"This Smartwatch Pro broke after two days of normal use, total waste.",Smartwatch Pro,negative,Flipkart,12/26/2025,4
+828,"I'm impressed by how well this Gaming Mouse performs, will buy again.",Gaming Mouse,positive,Flipkart,2/1/2025,3
+829,"@Flipkart my Running Shoes arrived broken, this is unacceptable",Running Shoes,negative,Twitter,10/18/2025,4
+830,"Thinking about buying a Cotton T-Shirt, any recommendations?",Cotton T-Shirt,neutral,Twitter,7/20/2025,3
+831,"The Wireless Earbuds exceeded my expectations, fast delivery too.",Wireless Earbuds,positive,Flipkart,9/1/2025,5
+832,The Wireless Earbuds looks good but I haven't used it much yet.,Wireless Earbuds,neutral,Flipkart,2/4/2025,3
+833,"Great quality Sunglasses for the price, very satisfied with my purchase.",Sunglasses,positive,Flipkart,10/7/2025,1
+834,"Thinking about buying a Laptop Backpack, any recommendations?",Laptop Backpack,neutral,Twitter,5/21/2025,3
+835,"@Flipkart my Laptop Backpack arrived broken, this is unacceptable",Laptop Backpack,negative,Twitter,12/31/2025,3
+836,Absolutely love this Smartphone X200! Works perfectly and arrived early.,Smartphone X200,positive,Flipkart,10/21/2025,3
+837,"Shoutout to great customer service for my Bluetooth Speaker issue, sorted in minutes!",Bluetooth Speaker,positive,Twitter,12/13/2025,3
+838,"Ordered a Cotton T-Shirt today, let's see how it goes",Cotton T-Shirt,neutral,Twitter,4/21/2025,3
+839,Comparing a few LED Desk Lamp options before I decide,LED Desk Lamp,neutral,Twitter,4/25/2025,3
+840,"Thinking about buying a Air Fryer, any recommendations?",Air Fryer,neutral,Twitter,8/30/2025,2
+841,"This Yoga Mat is a total game changer, five stars!",Yoga Mat,positive,Flipkart,3/27/2025,5
+842,"Super happy with the Yoga Mat, packaging was neat and delivery was quick.",Yoga Mat,positive,Flipkart,11/2/2025,1
+843,"My Running Shoes arrived on time, haven't tried it yet",Running Shoes,neutral,Twitter,3/2/2025,2
+844,"Customer support ignored my Laptop Backpack complaint for days, frustrating",Laptop Backpack,negative,Twitter,11/1/2025,5
+845,"Regret buying this Laptop Backpack, quality is really bad.",Laptop Backpack,negative,Flipkart,8/3/2025,4
+846,"Got the Smartphone X200 yesterday, still testing it out.",Smartphone X200,neutral,Flipkart,8/19/2025,2
+847,"Shoutout to great customer service for my Power Bank issue, sorted in minutes!",Power Bank,positive,Twitter,6/5/2025,1
+848,"The Laptop Backpack exceeded my expectations, fast delivery too.",Laptop Backpack,positive,Flipkart,3/13/2025,1
+849,Just got my new Sunglasses and I'm obsessed! #shopping #happy,Sunglasses,positive,Twitter,9/26/2025,2
+850,Comparing a few Air Fryer options before I decide,Air Fryer,neutral,Twitter,4/22/2025,2
+851,"This Cotton T-Shirt is a total game changer, five stars!",Cotton T-Shirt,positive,Flipkart,12/6/2025,1
+852,"Poor quality Laptop Backpack, not worth the money at all.",Laptop Backpack,negative,Flipkart,8/11/2025,1
+853,"LED Desk Lamp is amazing, exceeded all expectations #recommend",LED Desk Lamp,positive,Twitter,1/25/2025,3
+854,Just got my new Smartwatch Pro and I'm obsessed! #shopping #happy,Smartwatch Pro,positive,Twitter,12/1/2025,1
+855,"Regret buying this Air Fryer, quality is really bad.",Air Fryer,negative,Flipkart,12/20/2025,3
+856,"Regret buying this Power Bank, quality is really bad.",Power Bank,negative,Flipkart,1/27/2025,3
+857,"Thinking about buying a LED Desk Lamp, any recommendations?",LED Desk Lamp,neutral,Twitter,5/23/2025,2
+858,"Customer support ignored my Laptop Backpack complaint for days, frustrating",Laptop Backpack,negative,Twitter,2/28/2025,3
+859,"Can't stop using my Smartphone X200, best purchase this year! @Flipkart",Smartphone X200,positive,Twitter,2/19/2025,4
+860,Just got my new Smartphone X200 and I'm obsessed! #shopping #happy,Smartphone X200,positive,Twitter,8/5/2025,3
+861,Absolutely love this Running Shoes! Works perfectly and arrived early.,Running Shoes,positive,Flipkart,5/10/2025,4
+862,"Terrible experience, the Office Chair does not match the description.",Office Chair,negative,Flipkart,9/20/2025,5
+863,"@Flipkart my Air Fryer arrived broken, this is unacceptable",Air Fryer,negative,Twitter,8/5/2025,4
+864,"My Power Bank arrived on time, haven't tried it yet",Power Bank,neutral,Twitter,4/16/2025,4
+865,"Can't stop using my Power Bank, best purchase this year! @Flipkart",Power Bank,positive,Twitter,8/26/2025,1
+866,"The Smartwatch Pro is fine, delivery took longer than expected though.",Smartwatch Pro,neutral,Flipkart,10/20/2025,3
+867,"Bluetooth Speaker is amazing, exceeded all expectations #recommend",Bluetooth Speaker,positive,Twitter,8/27/2025,1
+868,"Super happy with the Bluetooth Speaker, packaging was neat and delivery was quick.",Bluetooth Speaker,positive,Flipkart,5/23/2025,4
+869,"Very disappointed with this Sunglasses, stopped working within a week.",Sunglasses,negative,Flipkart,6/8/2025,4
+870,"Shoutout to great customer service for my Air Fryer issue, sorted in minutes!",Air Fryer,positive,Twitter,12/20/2025,1
+871,"The Smartphone X200 works fine, packaging could be improved.",Smartphone X200,neutral,Flipkart,11/2/2025,4
+872,"Shoutout to great customer service for my Yoga Mat issue, sorted in minutes!",Yoga Mat,positive,Twitter,10/18/2025,2
+873,"Ordered a Smartphone X200 today, let's see how it goes",Smartphone X200,neutral,Twitter,4/29/2025,4
+874,"Neutral experience overall with this Smartphone X200, meets basic needs.",Smartphone X200,neutral,Flipkart,11/27/2025,2
+875,"Shoutout to great customer service for my Smartphone X200 issue, sorted in minutes!",Smartphone X200,positive,Twitter,7/27/2025,4
+876,"The Running Shoes exceeded my expectations, fast delivery too.",Running Shoes,positive,Flipkart,7/16/2025,2
+877,"Amazing value for money, the Office Chair works flawlessly.",Office Chair,positive,Flipkart,8/15/2025,2
+878,"The Sunglasses stopped charging after a few uses, very frustrating.",Sunglasses,negative,Flipkart,6/1/2025,3
+879,"Not happy with the Office Chair, feels cheap and flimsy.",Office Chair,negative,Flipkart,3/15/2025,2
+880,"Regret buying this Running Shoes, quality is really bad.",Running Shoes,negative,Flipkart,8/21/2025,3
+881,"This Wireless Earbuds is a total game changer, five stars!",Wireless Earbuds,positive,Flipkart,3/8/2025,3
+882,"Never buying Gaming Mouse again, quality control is terrible",Gaming Mouse,negative,Twitter,3/3/2025,4
+883,"The Smartwatch Pro stopped charging after a few uses, very frustrating.",Smartwatch Pro,negative,Flipkart,12/5/2025,4
+884,"Wireless Earbuds is amazing, exceeded all expectations #recommend",Wireless Earbuds,positive,Twitter,12/11/2025,3
+885,"Customer support ignored my Laptop Backpack complaint for days, frustrating",Laptop Backpack,negative,Twitter,1/5/2025,1
+886,"The Air Fryer stopped charging after a few uses, very frustrating.",Air Fryer,negative,Flipkart,2/4/2025,1
+887,Absolutely love this Sunglasses! Works perfectly and arrived early.,Sunglasses,positive,Flipkart,3/26/2025,4
+888,"Not happy with the Cotton T-Shirt, feels cheap and flimsy.",Cotton T-Shirt,negative,Flipkart,10/8/2025,3
+889,"Never buying Smartwatch Pro again, quality control is terrible",Smartwatch Pro,negative,Twitter,5/26/2025,3
+890,"The Air Fryer works fine, packaging could be improved.",Air Fryer,neutral,Flipkart,7/9/2025,3
+891,"Thinking about buying a Yoga Mat, any recommendations?",Yoga Mat,neutral,Twitter,10/7/2025,2
+892,"Great quality Yoga Mat for the price, very satisfied with my purchase.",Yoga Mat,positive,Flipkart,7/31/2025,1
+893,"Customer support ignored my Power Bank complaint for days, frustrating",Power Bank,negative,Twitter,6/18/2025,4
+894,Comparing a few Running Shoes options before I decide,Running Shoes,neutral,Twitter,6/27/2025,4
+895,"Can't stop using my Gaming Mouse, best purchase this year! @Flipkart",Gaming Mouse,positive,Twitter,7/23/2025,2
+896,"Can't stop using my Cotton T-Shirt, best purchase this year! @Flipkart",Cotton T-Shirt,positive,Twitter,7/5/2025,5
+897,"Best Sunglasses I have ever bought, highly recommend to everyone.",Sunglasses,positive,Flipkart,8/22/2025,2
+898,"Excellent build quality on this Kitchen Blender, using it daily without issues.",Kitchen Blender,positive,Flipkart,11/24/2025,5
+899,"The LED Desk Lamp exceeded my expectations, fast delivery too.",LED Desk Lamp,positive,Flipkart,5/23/2025,4
+900,"Poor quality Yoga Mat, not worth the money at all.",Yoga Mat,negative,Flipkart,8/28/2025,1
+901,"So disappointed with my Smartwatch Pro, total waste of money #fail",Smartwatch Pro,negative,Twitter,7/10/2025,2
+902,"Customer support ignored my Air Fryer complaint for days, frustrating",Air Fryer,negative,Twitter,3/26/2025,5
+903,"Customer support ignored my Bluetooth Speaker complaint for days, frustrating",Bluetooth Speaker,negative,Twitter,2/19/2025,4
+904,"Best Laptop Backpack I have ever bought, highly recommend to everyone.",Laptop Backpack,positive,Flipkart,11/30/2025,1
+905,"Gaming Mouse is amazing, exceeded all expectations #recommend",Gaming Mouse,positive,Twitter,4/5/2025,5
+906,"Very disappointed with this Smartwatch Pro, stopped working within a week.",Smartwatch Pro,negative,Flipkart,12/20/2025,3
+907,"Excellent build quality on this Gaming Mouse, using it daily without issues.",Gaming Mouse,positive,Flipkart,10/11/2025,2
+908,"Thinking about buying a Kitchen Blender, any recommendations?",Kitchen Blender,neutral,Twitter,4/2/2025,2
+909,"Excellent build quality on this Yoga Mat, using it daily without issues.",Yoga Mat,positive,Flipkart,6/24/2025,3
+910,"Shoutout to great customer service for my Smartwatch Pro issue, sorted in minutes!",Smartwatch Pro,positive,Twitter,4/26/2025,3
+911,"Not happy with the Bluetooth Speaker, feels cheap and flimsy.",Bluetooth Speaker,negative,Flipkart,4/24/2025,1
+912,"Best Air Fryer I have ever bought, highly recommend to everyone.",Air Fryer,positive,Flipkart,1/13/2025,3
+913,The Air Fryer looks good but I haven't used it much yet.,Air Fryer,neutral,Flipkart,3/16/2025,2
+914,"Average Office Chair, works as expected but could be better.",Office Chair,neutral,Flipkart,10/21/2025,2
+915,"Best Gaming Mouse I have ever bought, highly recommend to everyone.",Gaming Mouse,positive,Flipkart,11/8/2025,2
+916,"My Laptop Backpack arrived on time, haven't tried it yet",Laptop Backpack,neutral,Twitter,11/22/2025,4
+917,"Can't stop using my Smartwatch Pro, best purchase this year! @Flipkart",Smartwatch Pro,positive,Twitter,1/27/2025,5
+918,"Ordered a Running Shoes today, let's see how it goes",Running Shoes,neutral,Twitter,3/21/2025,2
+919,Comparing a few Yoga Mat options before I decide,Yoga Mat,neutral,Twitter,6/7/2025,2
+920,"I'm impressed by how well this Smartphone X200 performs, will buy again.",Smartphone X200,positive,Flipkart,4/20/2025,5
+921,"Excellent build quality on this Smartphone X200, using it daily without issues.",Smartphone X200,positive,Flipkart,8/11/2025,2
+922,"Reasonable Cotton T-Shirt, matches the pictures on the website.",Cotton T-Shirt,neutral,Flipkart,4/6/2025,4
+923,"Best Smartwatch Pro I have ever bought, highly recommend to everyone.",Smartwatch Pro,positive,Flipkart,8/29/2025,1
+924,"The Power Bank stopped charging after a few uses, very frustrating.",Power Bank,negative,Flipkart,2/24/2025,2
+925,"The LED Desk Lamp is functional, waiting to see how it holds up.",LED Desk Lamp,neutral,Flipkart,7/8/2025,3
+926,"Neutral experience overall with this Smartphone X200, meets basic needs.",Smartphone X200,neutral,Flipkart,10/6/2025,4
+927,"Thinking about buying a Laptop Backpack, any recommendations?",Laptop Backpack,neutral,Twitter,7/30/2025,4
+928,"So disappointed with my Kitchen Blender, total waste of money #fail",Kitchen Blender,negative,Twitter,11/11/2025,2
+929,"So disappointed with my Smartphone X200, total waste of money #fail",Smartphone X200,negative,Twitter,5/18/2025,5
+930,"Best Yoga Mat I have ever bought, highly recommend to everyone.",Yoga Mat,positive,Flipkart,10/17/2025,1
+931,"The Cotton T-Shirt is okay, does the job but nothing special.",Cotton T-Shirt,neutral,Flipkart,9/12/2025,4
+932,"Best Power Bank I have ever bought, highly recommend to everyone.",Power Bank,positive,Flipkart,8/22/2025,4
+933,"Got the LED Desk Lamp yesterday, still testing it out.",LED Desk Lamp,neutral,Flipkart,11/25/2025,3
+934,"The Office Chair works fine, packaging could be improved.",Office Chair,neutral,Flipkart,4/15/2025,3
+935,The Smartwatch Pro arrived damaged and customer support was unhelpful.,Smartwatch Pro,negative,Flipkart,2/26/2025,1
+936,"Can't stop using my Yoga Mat, best purchase this year! @Flipkart",Yoga Mat,positive,Twitter,9/3/2025,2
+937,"Can't stop using my Sunglasses, best purchase this year! @Flipkart",Sunglasses,positive,Twitter,12/23/2025,5
+938,"The Running Shoes exceeded my expectations, fast delivery too.",Running Shoes,positive,Flipkart,10/15/2025,5
+939,"Can't stop using my Yoga Mat, best purchase this year! @Flipkart",Yoga Mat,positive,Twitter,4/12/2025,5
+940,"My Smartphone X200 arrived on time, haven't tried it yet",Smartphone X200,neutral,Twitter,12/31/2025,4
+941,"Ordered a Yoga Mat today, let's see how it goes",Yoga Mat,neutral,Twitter,7/15/2025,4
+942,"Sunglasses is amazing, exceeded all expectations #recommend",Sunglasses,positive,Twitter,7/9/2025,1
+943,"Power Bank is amazing, exceeded all expectations #recommend",Power Bank,positive,Twitter,11/27/2025,3
+944,"@Flipkart my Air Fryer arrived broken, this is unacceptable",Air Fryer,negative,Twitter,5/5/2025,5
+945,"Not happy with the Wireless Earbuds, feels cheap and flimsy.",Wireless Earbuds,negative,Flipkart,7/6/2025,2
+946,"LED Desk Lamp is amazing, exceeded all expectations #recommend",LED Desk Lamp,positive,Twitter,9/14/2025,1
+947,"This Office Chair broke after two days of normal use, total waste.",Office Chair,negative,Flipkart,1/17/2025,2
+948,"I'm impressed by how well this Gaming Mouse performs, will buy again.",Gaming Mouse,positive,Flipkart,1/27/2025,3
+949,"The Bluetooth Speaker exceeded my expectations, fast delivery too.",Bluetooth Speaker,positive,Flipkart,8/21/2025,3
+950,"@Flipkart my Running Shoes arrived broken, this is unacceptable",Running Shoes,negative,Twitter,4/16/2025,1
+951,"So disappointed with my Kitchen Blender, total waste of money #fail",Kitchen Blender,negative,Twitter,12/1/2025,2
+952,"Very disappointed with this Smartwatch Pro, stopped working within a week.",Smartwatch Pro,negative,Flipkart,3/6/2025,4
+953,"Ordered a Office Chair today, let's see how it goes",Office Chair,neutral,Twitter,3/28/2025,4
+954,"@Flipkart my Gaming Mouse arrived broken, this is unacceptable",Gaming Mouse,negative,Twitter,6/26/2025,1
+955,"Never buying Cotton T-Shirt again, quality control is terrible",Cotton T-Shirt,negative,Twitter,9/30/2025,3
+956,"It's a decent Power Bank for the price, no major complaints.",Power Bank,neutral,Flipkart,6/17/2025,4
+957,"Thinking about buying a Wireless Earbuds, any recommendations?",Wireless Earbuds,neutral,Twitter,3/8/2025,2
+958,"Customer support ignored my Smartwatch Pro complaint for days, frustrating",Smartwatch Pro,negative,Twitter,7/18/2025,1
+959,"The Cotton T-Shirt exceeded my expectations, fast delivery too.",Cotton T-Shirt,positive,Flipkart,1/4/2025,1
+960,"Can't stop using my Gaming Mouse, best purchase this year! @Flipkart",Gaming Mouse,positive,Twitter,2/12/2025,4
+961,"Ordered a Smartwatch Pro today, let's see how it goes",Smartwatch Pro,neutral,Twitter,10/21/2025,4
+962,"So disappointed with my Cotton T-Shirt, total waste of money #fail",Cotton T-Shirt,negative,Twitter,2/25/2025,2
+963,"Customer support ignored my Air Fryer complaint for days, frustrating",Air Fryer,negative,Twitter,9/28/2025,3
+964,"The Sunglasses works fine, packaging could be improved.",Sunglasses,neutral,Flipkart,4/13/2025,2
+965,"The Sunglasses stopped charging after a few uses, very frustrating.",Sunglasses,negative,Flipkart,3/4/2025,1
+966,"Worst LED Desk Lamp I have purchased, would not recommend.",LED Desk Lamp,negative,Flipkart,11/28/2025,2
+967,Just got my new Smartphone X200 and I'm obsessed! #shopping #happy,Smartphone X200,positive,Twitter,10/8/2025,5
+968,"Very disappointed with this Cotton T-Shirt, stopped working within a week.",Cotton T-Shirt,negative,Flipkart,8/10/2025,3
+969,"Super happy with the Smartphone X200, packaging was neat and delivery was quick.",Smartphone X200,positive,Flipkart,5/22/2025,1
+970,"This Kitchen Blender is a total game changer, five stars!",Kitchen Blender,positive,Flipkart,10/5/2025,4
+971,"Best Gaming Mouse I have ever bought, highly recommend to everyone.",Gaming Mouse,positive,Flipkart,4/17/2025,2
+972,"Got the Sunglasses yesterday, still testing it out.",Sunglasses,neutral,Flipkart,7/7/2025,3
+973,"Never buying Smartwatch Pro again, quality control is terrible",Smartwatch Pro,negative,Twitter,5/18/2025,4
+974,"The Smartphone X200 stopped charging after a few uses, very frustrating.",Smartphone X200,negative,Flipkart,9/15/2025,2
+975,"It's a decent Wireless Earbuds for the price, no major complaints.",Wireless Earbuds,neutral,Flipkart,9/13/2025,4
+976,"Neutral experience overall with this Sunglasses, meets basic needs.",Sunglasses,neutral,Flipkart,3/17/2025,3
+977,"@Flipkart my Air Fryer arrived broken, this is unacceptable",Air Fryer,negative,Twitter,4/6/2025,4
+978,Absolutely love this Sunglasses! Works perfectly and arrived early.,Sunglasses,positive,Flipkart,6/19/2025,1
+979,"Terrible experience, the Sunglasses does not match the description.",Sunglasses,negative,Flipkart,4/7/2025,2
+980,"Customer support ignored my Gaming Mouse complaint for days, frustrating",Gaming Mouse,negative,Twitter,10/22/2025,2
+981,"Customer support ignored my Office Chair complaint for days, frustrating",Office Chair,negative,Twitter,7/19/2025,1
+982,"Ordered a Wireless Earbuds today, let's see how it goes",Wireless Earbuds,neutral,Twitter,1/8/2025,3
+983,"This Kitchen Blender is a total game changer, five stars!",Kitchen Blender,positive,Flipkart,4/23/2025,2
+984,Absolutely love this Wireless Earbuds! Works perfectly and arrived early.,Wireless Earbuds,positive,Flipkart,10/11/2025,3
+985,"Shoutout to great customer service for my Gaming Mouse issue, sorted in minutes!",Gaming Mouse,positive,Twitter,10/31/2025,3
+986,"This Smartphone X200 broke after two days of normal use, total waste.",Smartphone X200,negative,Flipkart,6/17/2025,4
+987,"This Sunglasses is a total game changer, five stars!",Sunglasses,positive,Flipkart,4/19/2025,4
+988,"Great quality Laptop Backpack for the price, very satisfied with my purchase.",Laptop Backpack,positive,Flipkart,8/31/2025,1
+989,"Poor quality Office Chair, not worth the money at all.",Office Chair,negative,Flipkart,11/28/2025,2
+990,The Wireless Earbuds arrived damaged and customer support was unhelpful.,Wireless Earbuds,negative,Flipkart,3/15/2025,5
+991,"This Sunglasses broke after two days of normal use, total waste.",Sunglasses,negative,Flipkart,3/26/2025,3
+992,"The Gaming Mouse works fine, packaging could be improved.",Gaming Mouse,neutral,Flipkart,1/19/2025,3
+993,"The Smartwatch Pro works fine, packaging could be improved.",Smartwatch Pro,neutral,Flipkart,2/7/2025,4
+994,Comparing a few Bluetooth Speaker options before I decide,Bluetooth Speaker,neutral,Twitter,5/20/2025,4
+995,"Worst Smartwatch Pro I have purchased, would not recommend.",Smartwatch Pro,negative,Flipkart,3/4/2025,4
+996,"The Smartphone X200 is okay, does the job but nothing special.",Smartphone X200,neutral,Flipkart,5/3/2025,3
+997,"@Flipkart my Cotton T-Shirt arrived broken, this is unacceptable",Cotton T-Shirt,negative,Twitter,12/16/2025,5
+998,"Average Sunglasses, works as expected but could be better.",Sunglasses,neutral,Flipkart,2/3/2025,3
+999,"It's a decent Power Bank for the price, no major complaints.",Power Bank,neutral,Flipkart,12/28/2025,3
+1000,"Very disappointed with this Cotton T-Shirt, stopped working within a week.",Cotton T-Shirt,negative,Flipkart,12/4/2025,5
