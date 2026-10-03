@@ -1,0 +1,3 @@
+Preprocessing,CV macro-F1,SD
+Class-demo cleaning (standard stopwords),0.9326992249695485,0.023058659896553205
+My cleaning (negations + emojis kept),0.9467057565065552,0.01899496199583087

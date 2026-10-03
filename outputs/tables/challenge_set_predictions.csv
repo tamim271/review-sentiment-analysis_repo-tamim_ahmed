@@ -1,0 +1,37 @@
+review_text,sentiment,clean_text,pred_Logistic Regression,pred_Multinomial NB,pred_Linear SVM,pred_Random Forest,pred_VADER
+"Honestly the phone exceeded my expectations, the screen is gorgeous and it never lags.",positive,honestly phone exceeded expectations screen gorgeous never lags,positive,positive,positive,positive,positive
+My daughter wears these shoes every single day for netball and they still look new.,positive,daughter wears shoes every single day netball still look new,negative,negative,negative,positive,neutral
+"Took a chance on this fryer and wow, crispy chips with barely any oil. Dinner sorted.",positive,took chance fryer wow crispy chips barely oil dinner sorted,negative,negative,negative,positive,positive
+Seller packed it like a fortress and it arrived before the weekend. Couldn't ask for more.,positive,seller packed like fortress arrived weekend could not ask,negative,negative,negative,positive,positive
+"These earbuds have replaced my old Sony pair, and I don't miss them one bit.",positive,earbuds replaced old sony pair not miss one bit,negative,neutral,negative,negative,positive
+Chair has saved my back during long Zoom days. Should have bought it years ago.,positive,chair saved back long zoom days bought years ago,negative,negative,negative,positive,positive
+"Quietest blender I've owned, smoothies in thirty seconds flat.",positive,quietest blender owned smoothies thirty seconds flat,positive,positive,neutral,positive,neutral
+"the lamp makes my desk look so much better, and the warm light is easy on the eyes 😊",positive,lamp makes desk look much better warm light easy eyes emo_pos,positive,positive,positive,positive,positive
+Bag survived a monsoon commute and my laptop stayed bone dry. Impressive.,positive,bag survived monsoon commute laptop stayed bone dry impressive,positive,positive,positive,positive,positive
+"Refund hit my account within 24 hours, really smooth experience.",positive,refund hit account within hours really smooth experience,positive,negative,negative,positive,neutral
+Mouse glides beautifully and the side buttons are a lifesaver in games.,positive,mouse glides beautifully side buttons lifesaver games,positive,positive,neutral,positive,positive
+I was sceptical but the power bank charged my phone four times on one fill.,positive,sceptical but power bank charged phone four times one fill,neutral,neutral,neutral,negative,negative
+Screen cracked from a tiny drop onto carpet. Pathetic.,negative,screen cracked tiny drop onto carpet pathetic,positive,positive,positive,positive,negative
+The watch keeps losing my sleep data and the strap gave me a rash.,negative,watch keeps losing sleep data strap gave rash,negative,negative,negative,negative,negative
+Chat agent told me to 'wait patiently' for the fourth time. I've waited 18 days.,negative,chat agent told wait patiently fourth time waited days,positive,positive,negative,positive,neutral
+Smells like burning plastic the moment you switch it on. Back in the box it goes.,negative,smells like burning plastic moment switch back box goes,negative,negative,negative,positive,positive
+"Earbuds keep dropping one side mid-call, which makes them unusable for work.",negative,earbuds keep dropping one side mid call makes unusable work,negative,negative,negative,negative,neutral
+"Paid for next-day shipping and it showed up a week later, no explanation.",negative,paid next day shipping showed week later no explanation,negative,negative,negative,positive,negative
+"The zip tore off after a fortnight, cheap rubbish dressed up as premium.",negative,zip tore fortnight cheap rubbish dressed premium,negative,negative,negative,positive,neutral
+"Sure, it looks pretty. Shame it can't hold a charge longer than a film.",negative,sure looks pretty shame not hold charge longer film,negative,negative,negative,negative,positive
+"Lamp flickers constantly, gave me a headache within an hour.",negative,lamp flickers constantly gave headache within hour,negative,negative,negative,negative,neutral
+"Oh lovely, a 'brand new' speaker with someone else's fingerprints and scratches all over it.",negative,oh lovely brand new speaker someone else fingerprints scratches,negative,negative,negative,positive,positive
+"Shoes squeak on every step, embarrassing in the office.",negative,shoes squeak every step embarrassing office,positive,positive,positive,positive,negative
+"Three replacement units, three faulty units. I give up.",negative,three replacement units three faulty units give,positive,positive,neutral,positive,negative
+It arrived on Tuesday. Haven't really used it much yet.,neutral,arrived tuesday not really used much yet,positive,neutral,positive,positive,neutral
+Is the blender jar dishwasher safe? Can't find it in the manual.,neutral,blender jar dishwasher safe not find manual,negative,positive,negative,positive,positive
+"Comparable to my previous mouse, nothing new really.",neutral,comparable previous mouse nothing new really,neutral,neutral,neutral,positive,neutral
+"Bought it as a backup charger, it sits in my drawer for emergencies.",neutral,bought backup charger sits drawer emergencies,positive,positive,positive,positive,neutral
+"Screen is bright, battery is so-so. Middle of the road.",neutral,screen bright battery middle road,positive,positive,positive,positive,positive
+"Ordered size 9, will see if it fits when it comes.",neutral,ordered size see fits comes,neutral,neutral,neutral,positive,neutral
+The chair is a chair. It holds me up.,neutral,chair chair holds,neutral,neutral,neutral,positive,neutral
+Waiting for the firmware update before I decide whether to keep it.,neutral,waiting firmware update decide whether keep,positive,positive,positive,positive,neutral
+Looks the same as the picture on the website.,neutral,looks picture website,positive,positive,positive,positive,neutral
+Got it in grey instead of black but I'm not that bothered.,neutral,got grey instead black but not bothered,negative,positive,negative,positive,positive
+"Average speaker for a small room, wouldn't use it outdoors.",neutral,average speaker small room would not use outdoors,neutral,neutral,neutral,neutral,neutral
+Delivery came on the date shown at checkout.,neutral,delivery came date shown checkout,negative,positive,neutral,positive,neutral

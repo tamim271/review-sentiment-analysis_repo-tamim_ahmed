@@ -1,0 +1,401 @@
+{
+  "eda": {
+    "n_reviews": 2000,
+    "class_share": {
+      "negative": 0.301,
+      "neutral": 0.236,
+      "positive": 0.462
+    },
+    "source_counts": {
+      "Flipkart": 1207,
+      "Twitter": 793
+    },
+    "median_words": {
+      "Flipkart": 19.0,
+      "Twitter": 14.0
+    },
+    "date_range": [
+      "2025-10-01",
+      "2026-09-30"
+    ],
+    "n_products": 12,
+    "unique_texts": 2000
+  },
+  "split": {
+    "train": 1600,
+    "test": 400,
+    "test_class_counts": {
+      "positive": 185,
+      "negative": 120,
+      "neutral": 95
+    }
+  },
+  "tfidf": {
+    "grid": {
+      "500": {
+        "(1, 1)": 0.9462,
+        "(1, 2)": 0.9319,
+        "(1, 3)": 0.9042
+      },
+      "1000": {
+        "(1, 1)": 0.9462,
+        "(1, 2)": 0.9428,
+        "(1, 3)": 0.9319
+      },
+      "2000": {
+        "(1, 1)": 0.9462,
+        "(1, 2)": 0.9467,
+        "(1, 3)": 0.9277
+      },
+      "5000": {
+        "(1, 1)": 0.9462,
+        "(1, 2)": 0.9467,
+        "(1, 3)": 0.9289
+      },
+      "All": {
+        "(1, 1)": 0.9462,
+        "(1, 2)": 0.9467,
+        "(1, 3)": 0.9289
+      }
+    },
+    "vocab": {
+      "(1, 1)": 431,
+      "(1, 2)": 2075,
+      "(1, 3)": 4055
+    },
+    "grid_best": "{'tfidf__max_features': 2000, 'tfidf__ngram_range': (1, 2)}"
+  },
+  "ablation": [
+    {
+      "Preprocessing": "Class-demo cleaning (standard stopwords)",
+      "CV macro-F1": 0.9327,
+      "SD": 0.0231
+    },
+    {
+      "Preprocessing": "My cleaning (negations + emojis kept)",
+      "CV macro-F1": 0.9467,
+      "SD": 0.019
+    }
+  ],
+  "models": [
+    {
+      "Model": "Linear SVM",
+      "Accuracy": 0.96,
+      "Precision": 0.9598,
+      "Recall": 0.96,
+      "F1 (weighted)": 0.9599,
+      "F1 (macro)": 0.9543,
+      "CV macro-F1 (mean)": 0.9613,
+      "CV macro-F1 (SD)": 0.0192
+    },
+    {
+      "Model": "Random Forest",
+      "Accuracy": 0.945,
+      "Precision": 0.9449,
+      "Recall": 0.945,
+      "F1 (weighted)": 0.9447,
+      "F1 (macro)": 0.9388,
+      "CV macro-F1 (mean)": 0.9327,
+      "CV macro-F1 (SD)": 0.0204
+    },
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.935,
+      "Precision": 0.9354,
+      "Recall": 0.935,
+      "F1 (weighted)": 0.9344,
+      "F1 (macro)": 0.9282,
+      "CV macro-F1 (mean)": 0.9467,
+      "CV macro-F1 (SD)": 0.019
+    },
+    {
+      "Model": "Multinomial NB",
+      "Accuracy": 0.9025,
+      "Precision": 0.9022,
+      "Recall": 0.9025,
+      "F1 (weighted)": 0.9016,
+      "F1 (macro)": 0.8902,
+      "CV macro-F1 (mean)": 0.899,
+      "CV macro-F1 (SD)": 0.0262
+    }
+  ],
+  "vader": {
+    "Accuracy": 0.6575,
+    "Precision": 0.6489,
+    "Recall": 0.6575,
+    "F1 (weighted)": 0.6438,
+    "F1 (macro)": 0.6103
+  },
+  "best_model": "Linear SVM",
+  "best_report": {
+    "negative": {
+      "precision": 0.975,
+      "recall": 0.975,
+      "f1-score": 0.975,
+      "support": 120.0
+    },
+    "neutral": {
+      "precision": 0.9247311827956989,
+      "recall": 0.9052631578947369,
+      "f1-score": 0.9148936170212766,
+      "support": 95.0
+    },
+    "positive": {
+      "precision": 0.9679144385026738,
+      "recall": 0.9783783783783784,
+      "f1-score": 0.9731182795698925,
+      "support": 185.0
+    },
+    "accuracy": 0.96,
+    "macro avg": {
+      "precision": 0.9558818737661242,
+      "recall": 0.9528805120910384,
+      "f1-score": 0.954337298863723,
+      "support": 400.0
+    },
+    "weighted avg": {
+      "precision": 0.9597840837214651,
+      "recall": 0.96,
+      "f1-score": 0.9598544383436285,
+      "support": 400.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      117,
+      3,
+      0
+    ],
+    [
+      3,
+      86,
+      6
+    ],
+    [
+      0,
+      4,
+      181
+    ]
+  ],
+  "accuracy_by_pattern": [
+    {
+      "pattern": "noisy_label",
+      "n": 11,
+      "accuracy": 0.0,
+      "vader_accuracy": 0.273
+    },
+    {
+      "pattern": "negation",
+      "n": 27,
+      "accuracy": 0.963,
+      "vader_accuracy": 0.889
+    },
+    {
+      "pattern": "plain",
+      "n": 243,
+      "accuracy": 0.984,
+      "vader_accuracy": 0.745
+    },
+    {
+      "pattern": "mixed",
+      "n": 79,
+      "accuracy": 1.0,
+      "vader_accuracy": 0.532
+    },
+    {
+      "pattern": "sarcasm",
+      "n": 12,
+      "accuracy": 1.0,
+      "vader_accuracy": 0.0
+    },
+    {
+      "pattern": "wait_and_see",
+      "n": 28,
+      "accuracy": 1.0,
+      "vader_accuracy": 0.464
+    }
+  ],
+  "top_terms": {
+    "negative": [
+      "emo_neg",
+      "disappointed",
+      "awful",
+      "worstservice",
+      "very disappointed",
+      "not",
+      "seriously",
+      "returning"
+    ],
+    "neutral": [
+      "average",
+      "although",
+      "balances",
+      "emo_neu",
+      "average overall",
+      "three stars",
+      "okay",
+      "overall"
+    ],
+    "positive": [
+      "emo_pos",
+      "happy",
+      "recommended",
+      "go",
+      "honestly",
+      "five stars",
+      "excellent",
+      "highly recommended"
+    ]
+  },
+  "overall_share": {
+    "negative": 30.1,
+    "neutral": 23.6,
+    "positive": 46.2
+  },
+  "source_share": {
+    "Flipkart": {
+      "negative": 21.4,
+      "neutral": 28.7,
+      "positive": 49.9
+    },
+    "Twitter": {
+      "negative": 43.4,
+      "neutral": 15.9,
+      "positive": 40.7
+    }
+  },
+  "monthly_negative": {
+    "2025-10-01": 29.1,
+    "2025-11-01": 36.1,
+    "2025-12-01": 29.7,
+    "2026-01-01": 33.6,
+    "2026-02-01": 36.8,
+    "2026-03-01": 27.7,
+    "2026-04-01": 37.1,
+    "2026-05-01": 22.6,
+    "2026-06-01": 25.6,
+    "2026-07-01": 30.7,
+    "2026-08-01": 24.5,
+    "2026-09-01": 23.2
+  },
+  "monthly_positive": {
+    "2025-10-01": 46.6,
+    "2025-11-01": 42.7,
+    "2025-12-01": 49.5,
+    "2026-01-01": 42.6,
+    "2026-02-01": 46.2,
+    "2026-03-01": 44.0,
+    "2026-04-01": 43.6,
+    "2026-05-01": 47.4,
+    "2026-06-01": 48.9,
+    "2026-07-01": 45.8,
+    "2026-08-01": 51.7,
+    "2026-09-01": 47.1
+  },
+  "monthly_volume": {
+    "2025-10-01": 268,
+    "2025-11-01": 241,
+    "2025-12-01": 192,
+    "2026-01-01": 122,
+    "2026-02-01": 171,
+    "2026-03-01": 166,
+    "2026-04-01": 140,
+    "2026-05-01": 133,
+    "2026-06-01": 133,
+    "2026-07-01": 153,
+    "2026-08-01": 143,
+    "2026-09-01": 138
+  },
+  "net_sentiment_by_product": {
+    "ErgoMax Office Chair": -5.8,
+    "BlendPro Blender": -1.6,
+    "PulseFit Smartwatch 2": 0.5,
+    "Lumi LED Desk Lamp": 12.6,
+    "ProGlide Gaming Mouse": 16.4,
+    "Nova 5G Smartphone": 16.5,
+    "PowerCore Power Bank": 16.8,
+    "StrideRun Running Shoes": 20.0,
+    "UrbanPack Laptop Backpack": 23.8,
+    "AirBeat Earbuds": 25.0,
+    "BoomBox Speaker": 25.9,
+    "CrispAir Air Fryer": 50.0
+  },
+  "negative_aspects_by_source": {
+    "comfort": {
+      "Flipkart": 5.4,
+      "Twitter": 2.3
+    },
+    "price / value": {
+      "Flipkart": 3.5,
+      "Twitter": 4.7
+    },
+    "returns": {
+      "Flipkart": 4.7,
+      "Twitter": 4.4
+    },
+    "packaging": {
+      "Flipkart": 5.0,
+      "Twitter": 5.2
+    },
+    "build": {
+      "Flipkart": 9.3,
+      "Twitter": 4.9
+    },
+    "battery": {
+      "Flipkart": 10.5,
+      "Twitter": 6.1
+    },
+    "customer service": {
+      "Flipkart": 5.0,
+      "Twitter": 27.6
+    },
+    "delivery": {
+      "Flipkart": 21.3,
+      "Twitter": 23.5
+    }
+  },
+  "smartwatch": {
+    "n": 189,
+    "neg_before": 0.76,
+    "neg_after": 0.14035087719298245,
+    "nss_before": -64.0,
+    "nss_after": 42.98245614035088
+  },
+  "rating_by_sentiment": {
+    "negative": 1.68,
+    "neutral": 2.88,
+    "positive": 4.32
+  },
+  "challenge_set": [
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.5,
+      "F1 (macro)": 0.495
+    },
+    {
+      "Model": "Multinomial NB",
+      "Accuracy": 0.5,
+      "F1 (macro)": 0.508
+    },
+    {
+      "Model": "Linear SVM",
+      "Accuracy": 0.472,
+      "F1 (macro)": 0.457
+    },
+    {
+      "Model": "Random Forest",
+      "Accuracy": 0.417,
+      "F1 (macro)": 0.362
+    },
+    {
+      "Model": "VADER lexicon (baseline)",
+      "Accuracy": 0.611,
+      "F1 (macro)": 0.605
+    }
+  ],
+  "class_sample": {
+    "accuracy": 1.0,
+    "unique_texts": 497,
+    "n": 1000
+  }
+}

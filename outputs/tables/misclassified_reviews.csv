@@ -1,0 +1,17 @@
+review_id,review_text,source,pattern,sentiment,pred
+301,Using this Nova 5G Smartphone for a month now. Delivery was rescheduled again and again. Support said a technician will visit next week.,Flipkart,plain,negative,neutral
+635,the storage space has been flawless so far. https://t.co/yrsxxfmvdz,Twitter,noisy_label,neutral,positive
+917,Build quality is solid and reliable.,Flipkart,noisy_label,neutral,positive
+1822,Second UrbanPack Laptop Backpack I have bought from this seller. Worth every penny. Requested an exchange for a different size.,Flipkart,plain,positive,neutral
+1577,"Since the May update, the battery backup is not just good, it is great. Yes, really disappointed with the step and heart-rate tracking, but overall I am happy.",Flipkart,noisy_label,neutral,positive
+923,"Using this BlendPro Blender for a month now. The jar quality is not worth the money. Motor noise is fine, neither great nor bad. Avoid this one.",Flipkart,negation,negative,neutral
+577,Using this PowerCore Power Bank for a month now. Delivery took the usual four to five days. Nothing more to add.,Flipkart,noisy_label,positive,neutral
+1551,"Ordered the Nova 5G Smartphone for my brother. Battery life is solid and reliable, although the performance stopped working within a week, so it balances out. Nothing more to add.",Flipkart,noisy_label,positive,neutral
+1348,The delivery guy was very polite and on time. #unboxing 👍,Twitter,noisy_label,neutral,positive
+1616,@flipkartsupport the delivery person never showed up. #scam #disappointed,Twitter,noisy_label,neutral,negative
+1058,The blending power is not even close to good. Return request rejected for no reason. #fail,Twitter,noisy_label,neutral,negative
+922,Got this BoomBox Speaker during the sale. The battery backup is about what you would expect.,Flipkart,plain,neutral,negative
+527,tbh cushioning is genuinely the best in this range. Support team was helpful and quick. 😊,Twitter,noisy_label,neutral,positive
+1004,Does the ProGlide Gaming Mouse support fast charging? Thinking of buying one. #shopping,Twitter,noisy_label,positive,neutral
+1371,Ordered the PowerCore Power Bank for my brother. The charging speed has been flawless so far. Go for it.,Flipkart,noisy_label,neutral,positive
+1247,@Flipkart Total waste of money. Requested an exchange for a different size. #worstservice https://t.co/7pva4j5ep4,Twitter,plain,negative,neutral
